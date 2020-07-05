@@ -7,10 +7,10 @@ Books_2, rating >= 9.0 and votes >= 1000, number = 1739
 Books_3, rating >= 8.5 and votes >= 0,    number = 59898  
 
 Doulists:  https://www.douban.com/note/601062791/  
-Tags:      https://raw.githubusercontent.com/yuzhounh/Douban_books_2020/master/Tags_list
+Tags:      https://github.com/yuzhounh/Douban-books-2020/blob/master/Tags_list  
 Algorithm: http://blog.sina.com.cn/s/blog_4cf3c50901031pf5.html  
 
-### Contact information:
+### Contact information
 Jing Wang  
 wangjing@xynu.edu.cn  
 yuzhounh@163.com  
