@@ -1,0 +1,26 @@
+doulist, number of books, title
+00176513, 022, 机器学习与人工智能
+
+ID, rating, votes, date, title, author, publisher
+11026330, 9.4, 000184, 2012-3-27, Learning From Data, Yaser S. Abu-Mostafa / Malik Magdon-Ismail / Hsuan-Tien Lin, AMLBook
+26883982, 9.3, 000516, 2016-11-11, Deep Learning, Ian Goodfellow / Yoshua Bengio / Aaron Courville, The MIT Press
+02209702, 8.9, 000426, 2007-8-26, Programming Collective Intelligence, Toby Segaran, O&#39;Reilly Media
+02252153, 8.9, 000111, 1997-7-4, Machine Learning, Thomas Mitchell, McGraw-Hill Education
+01229949, 8.9, 000079, 2002-12-30, Artificial Intelligence, Stuart Russell / Peter Norvig, Prentice Hall
+02061116, 9.5, 001334, 2007-10-1, Pattern Recognition and Machine Learning, Christopher Bishop, Springer
+01789534, 9.2, 000118, 2003-10-6, Information Theory, Inference and Learning Algorithms, David J. C. MacKay, Cambridge University Press
+02249515, 8.4, 000062, 2006-01-13, Data Mining, Jiawei Han / Micheline Kamber / Jian Pei, Morgan Kaufmann
+01776634, 9.0, 000067, 1999-6-18, Foundations of Statistical Natural Language Processing, Christopher D. Manning / Hinrich Schütze, The MIT Press
+01782632, 7.9, 000026, 1999-5-15, Modern Information Retrieval, Ricardo Baeza-Yates / Berthier Ribeiro-Neto, Addison Wesley
+03059637, 9.1, 000231, 2008-7-7, Introduction to Information Retrieval, Christopher D. Manning / Prabhakar Raghavan / Hinrich Schütze, Cambridge University Press
+01511568, 8.8, 000036, 1999-5-11, Managing Gigabytes, Ian H. Witten / Alistair Moffat / Timothy C. Bell, Morgan Kaufmann
+02285151, 9.0, 000212, 2004-10-21, All of Statistics, Larry Wasserman, Springer
+01761179, 9.5, 000141, 2003-07-30, The Elements of Statistical Learning, T. Hastie / R. Tibshirani / J. H. Friedman, Springer
+01785817, 9.1, 000177, 2006-5, 概率论及其应用, 威廉·费勒, 人民邮电出版社
+02374426, 9.1, 000016, 2002-7, Bounded Rationality, Gerd Gigerenzer / Reinhard Selten, MIT Press
+01599035, 8.4, 000219, 2002-9, 简捷启发式, [德] 哥德·吉戈伦尔 / [德] 彼得·M. 托德, 华东师范大学出版社
+02208826, 9.1, 000032, 2005, The Cambridge Handbook of Thinking and Reasoning, Keith J. Holyoak / Robert G. Morrison, Cambridge University Press
+02073245, 8.8, 000040, 1996-1-18, Neural Networks for Pattern Recognition, Christopher M. Bishop, Oxford University Press
+01507931, 9.0, 000125, 2000, 统计学习理论的本质, [美] Vladimir N. Vapnik, 清华大学出版社
+01763639, 9.5, 000032, 1998-9-30, Statistical Learning Theory, Vladimir N. Vapnik, Wiley-Interscience
+02879899, 8.7, 000025, 1993-3-25, Statistical Decision Theory and Bayesian Analysis, James O. Berger, Springer

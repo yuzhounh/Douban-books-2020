@@ -1,0 +1,95 @@
+2020-07-05 16:00:08
+
+number of books, tag name
+89, 模式识别
+
+ID, rating, votes, title
+02791877, 9.2, 2394, One Billion Customers
+26275861, 8.5, 5082, 沟通的艺术（插图修订第14版）
+02061116, 9.5, 1334, Pattern Recognition and Machine Learning
+10590856, 9.0, 2143, 统计学习方法
+26708119, 8.6, 2532, 机器学习
+03288908, 9.0, 1479, 集体智慧编程
+01425950, 9.2, 950, 线性代数及其应用
+01888111, 9.6, 434, Convex Optimization
+10769749, 8.1, 1845, 推荐系统实践
+25859093, 7.8, 1795, 自由的老虎
+01102235, 8.4, 797, 机器学习
+02209702, 8.9, 426, Programming Collective Intelligence
+10758624, 9.0, 304, Machine Learning
+01138189, 8.8, 356, 模式分类
+35044046, 9.4, 174, 神经网络与深度学习
+05377669, 8.1, 527, 数据挖掘导论
+02285151, 9.0, 212, All of Statistics
+01761179, 9.5, 141, The Elements of Statistical Learning
+02338638, 8.2, 415, 预知社会
+03171969, 8.3, 367, 认知心理学
+01230487, 8.8, 227, 人工智能
+03307202, 9.3, 150, Artificial Intelligence
+02038599, 7.8, 533, 数据挖掘概念与技术
+01106342, 8.3, 303, 数字图像处理（第二版）
+04007200, 9.0, 149, Probabilistic Graphical Models
+10760444, 8.4, 227, Python for Data Analysis
+01789534, 9.2, 118, Information Theory
+04285832, 9.3, 109, 数字图像处理
+06962285, 8.5, 194, Machine Learning in Action
+01507931, 9.0, 125, 统计学习理论的本质
+04033320, 8.1, 264, 学习OpenCV（中文版）
+01788544, 8.9, 113, Pattern Classification
+02252153, 8.9, 111, Machine Learning
+02173399, 9.3, 79, Numerical Recipes 3rd Edition
+02866455, 8.6, 121, Reinforcement Learning
+03696989, 8.3, 154, Natural Language Processing with Python
+11226618, 9.1, 78, Foundations of Machine Learning
+25854872, 7.2, 425, 算法帝国
+26278331, 9.3, 58, 统计学习基础(第2版)(英文)
+05952531, 8.1, 130, 神经网络与机器学习（原书第3版）
+01933034, 8.3, 109, 人工智能
+10769712, 6.2, 1354, 爆发
+25780470, 7.5, 165, 如何创造思维
+03722993, 9.7, 34, Graphical Models
+02584657, 8.7, 53, Neural Networks and Learning Machines
+01763639, 9.5, 32, Statistical Learning Theory
+04816562, 7.8, 88, MATLAB神经网络30个案例分析
+03301233, 8.7, 45, 机器视觉算法与应用
+05250752, 8.3, 55, 模式识别
+02073245, 8.8, 40, Neural Networks for Pattern Recognition
+01224812, 8.7, 42, 可变目标C编译器
+01820179, 8.4, 50, Data Mining
+04603803, 7.9, 70, 模式识别
+07906768, 7.5, 91, Machine Learning for Hackers
+01246238, 8.6, 36, 计算机视觉
+10831897, 7.5, 72, 数据之魅
+01840974, 9.0, 26, More Math Into LaTeX
+01172178, 8.0, 43, 数据挖掘中的新方法：支持向量机
+01789537, 9.4, 20, Kernel Methods for Pattern Analysis
+04727015, 8.0, 34, 数字图像处理与机器视觉
+10561724, 7.0, 64, SciPy and NumPy
+05921462, 7.1, 58, 图像处理、分析与机器视觉
+03916225, 8.5, 21, Introduction to Semi-Supervised Learning
+04778377, 7.8, 31, 图像局部不变性特征与描述
+01152129, 7.0, 56, 支持向量机导论
+01465496, 9.8, 11, A Probabilistic Theory of Pattern Recognition (Stochastic Modelling and Applied Probability)
+05349816, 8.3, 18, 特征提取与图像处理
+07947761, 9.2, 12, Boosting
+01435000, 8.8, 14, 机器视觉教程
+03887824, 8.1, 19, Machine Learning
+02585811, 9.2, 11, Handbook of Face Recognition
+02350178, 8.4, 14, Matrix Methods in Data Mining and Pattern Recognition (Fundamentals of Algorithms)
+02311302, 8.4, 13, An Introduction to Computational Learning Theory
+01225631, 6.7, 34, 自然语言理解
+02364664, 7.0, 26, 模式识别与智能计算
+01323691, 8.1, 13, 机器视觉
+25879705, 6.1, 46, 机器学习实践指南
+06440223, 7.7, 12, Learning to Rank for Information Retrieval and Natural Language Processing
+01780016, 7.5, 13, Principles of Data Mining (Adaptive Computation and Machine Learning)
+01220873, 7.4, 12, 实用语音识别基础
+01237311, 7.2, 12, 现代模式识别
+01448497, 6.6, 17, 信号检测与估计理论
+01231995, 5.8, 19, 模式识别--原理方法及应用
+26912214, 4.1, 28, 深度学习
+01823030, 0.0, 10, Spoken Language Processing
+03269549, 0.0, 10, 现代模式识别
+06797247, 0.0, 10, Scaling up Machine Learning
+26851604, 0.0, 10, 图像处理、分析与机器视觉（第4版）
+06718508, 0.0, 12, Large-Scale Inference

@@ -1,0 +1,95 @@
+doulist, number of books, title
+01222905, 119, 心灵电路
+
+ID, rating, votes, date, title, author, publisher
+10536853, 9.3, 000022, 2012-1, 认知、脑与意识, 巴尔斯, 科学出版社
+10506740, 0.0, 000005, 2012-1, 神经科学中的数学, F. Gabbiani, 科学出版社
+10486879, 0.0, 000010, 2012-1, 神经科学Matlab教程, Pascal Wallisch / Michael Lusignan / Marc Benayoun / Tanya I. Baker / Adam Seth Dickey / Nicholas G.  Hatsopoulos, 科学出版社
+25816519, 0.0, 000004, 2014-1-8, Computational Neuroscience and Cognitive Modelling, Britt Anderson, SAGE Publications Ltd
+01394597, 9.7, 000056, 2000-4, Time, Love, Memory, Jonathan Weiner, Vintage
+01458657, 8.5, 000026, 1996-6-17, The Mismeasure of Man, Stephen J Gould, W. W. Norton &amp; Co.
+03288611, 8.6, 000215, 2008-12, 自达尔文以来, 斯蒂芬·杰·古尔德, 海南出版社
+02311014, 8.2, 000027, 1987-6, 情有独钟, [美] 伊夫林·凯勒, 生活·读书·新知三联书店
+04053482, 8.4, 000077, 2009-9, 双螺旋：发现DNA结构的故事, J.D.沃森（James D.Watson）, 化学工业出版社
+01219557, 9.0, 000215, 2005-01-01, 创世纪的第八天, [美] 霍勒斯·贾德森(Horace Freeland Judson), 上海科学技术出版社
+01919510, 8.5, 000037, 1986, 对年轻科学家的忠告, P. B. Medawar, 南开大学出版社
+01937407, 9.5, 000038, 1994, 狂热的追求, Francis Crick, 中国科学技术大学出版社
+01969287, 7.2, 000024, 2006-12-1, 认知科学哲学导论, 罗姆·哈瑞, 上海科技教育出版社
+06784219, 9.4, 000256, 2011-8-10, 生物心理学, [美]詹姆斯·卡拉特 / James W. Kalat, 人民邮电出版社
+25723403, 9.7, 000080, 2013-9, 神经科学原理, （美）埃里克 R. 坎德尔 / 詹姆斯 H. 施瓦茨 / 托马斯 M. 杰塞尔 / 史蒂文 A. 西格尔鲍姆 / A. J. 赫兹佩思, 机械工业出版社
+11743651, 0.0, 000003, 2010-12-31, Rationality and the Reflective Mind, Keith Stanovich, Oxford University Press
+02560465, 8.8, 000015, 2005-10-15, The Robot&#39;s Rebellion, Keith E. Stanovich, University Of Chicago Press
+07063022, 8.0, 000036, 2011-11, 人类认知的文化起源, 迈克尔·托马塞洛, 中国社会科学出版社
+03222291, 8.6, 000302, 2008-9-1, 意识的解释, 丹尼尔·丹尼特, 北京理工大学出版社
+10864140, 0.0, 000008, 2012-7, 记忆心理学, 杨治良 / 孙连荣 / 唐菁华, 华东师范大学出版社
+03297904, 0.0, 000000, 2008-6-2, The Probabilistic Mind, Nick Chater / Mike Oaksford, Oxford University Press, USA
+02847919, 0.0, 000000, 1995-1-22, The Psychology of Action, Gollwitzer, Peter M. (EDT)/ Bargh, John A. (EDT), Guilford Press
+04838330, 0.0, 000007, 2010-5-1, 聚合四大科技提高人类能力, (美)米黑尔·罗科 / 威廉·班布里奇, 清华大学出版社
+11241727, 8.4, 000054, 2012-11-13, How to Create a Mind, Ray Kurzweil, Viking Adult
+06310978, 8.6, 000011, 2010-11-29, Computational Modeling in Cognition, Stephan Lewandowsky / Simon Farrell, SAGE Publications, Inc
+02345245, 9.4, 000032, 2003-1-28, Synaptic Self, Joseph LeDoux, Penguin Books
+01899999, 0.0, 000000, 1997-08-01, Inside The Brain, Kotulak, Andrews McMeel Publishing
+06722531, 0.0, 000002, 2011-5, 机器人视觉测量与控制, 徐德, 国防工业
+02153843, 0.0, 000001, 2007-6, 竞赛机器人制作技术, 王志良, 机械工业出版社
+03015153, 0.0, 000013, 2008-3, 视觉测量, 张广军, 科学
+01554709, 0.0, 000000, 2000-12-01, 人工嗅觉与人工味觉, 王平, 科学出版社
+01648422, 0.0, 000000, 2005-4, 嗅觉模拟技术, 殷勇, 化学工业出版社
+01237211, 8.1, 000017, 2004-02-01, 计算机视觉, 福赛恩, 清华大学出版社
+10864488, 8.2, 000279, 2012-7, 心智的构建, [英] Chris Frith, 华东师范大学出版社
+04260937, 0.0, 000000, 2008-06-23, Probabilistic Reasoning and Decision Making in Sensory-Motor Systems (Springer Tracts in Advanced Robotics) (Springer Tracts in Advanced Robotics), Pierre BessiÃ¨re, Springer
+02120140, 0.0, 000000, 2002-04-08, Recent Advances in Visual Information Systems, Shi-Kuo Chang, Springer
+02497120, 0.0, 000000, 2004-11, Electroencephalography, Niedermeyer, Ernst (EDT)/ Da Silva, Fernando Lopes, M.D., Ph.D. (EDT)/ Lopes Da Silva, F. H. (EDT), Lippincott Williams &amp; Wilkins
+10442323, 0.0, 000001, 2012-1-24, Brain-Computer Interfaces, Wolpaw, Jonathan R.; Wolpaw, Elizabeth Winter;, Oxford University Press, USA
+01084912, 8.4, 000052, 2001-02-01, 心灵、语言和社会, 约翰·塞尔, 上海译文出版社
+02879358, 0.0, 000000, 2007-11-26, Bayesian Methods, Jeff Gill, Chapman and Hall/CRC
+01893050, 8.9, 000056, 2006-7, 信息论、推理与学习算法, [英] David J.C. MacKay, 高等教育出版社
+01933034, 8.3, 000109, 2006-10, 人工智能, （美）卢格尔（Luger，G.F.）, 机械工业出版社
+03219419, 0.0, 000008, 2008-04-28, The Cambridge Handbook of Computational Psychology, Sun, Ron 编, Cambridge University Press
+04000927, 8.4, 000030, 2009-8, 身体的智能, Rolf Pfeifer / Josh Bongard, 科学出版社
+04446523, 0.0, 000005, 2008-9-8, Computing the Mind, Shimon Edelman, Oxford University Press, USA
+01530527, 9.0, 000018, 2000-1, MIT认知科学百科全书, 编者：ROBERTA.WILSONFRANK.KELL, 上海外语教育出版社
+02423893, 0.0, 000001, 2005-8-25, Cortex and Mind, Joaquín M. Fuster, Oxford University Press, USA
+02847991, 0.0, 000002, 2000-9-4, Computational Explorations in Cognitive Neuroscience, Randall C. O&#39;Reilly / Yuko Munakata, A Bradford Book
+01899979, 0.0, 000001, 2004-07-01, Neuropsychological Assessment, Muriel D. Lezak / Diane B. Howieson / David W. Loring / H. Julia Hannay / Jill S. Fischer, Oxford University Press, USA
+01291194, 9.2, 000037, 1988-3-15, The Society of Mind, Marvin Minsky, Simon &amp; Schuster
+03854718, 8.4, 000127, 2009-7-1, 认知心理学, (英)艾森克 / 基恩, 华东师范大学出版社
+03464869, 7.7, 000063, 2009-2-1, 情绪, （美）卡莱特, 中国轻工业出版社
+02173239, 7.6, 000036, 2007-7-1, 计算与认知, 泽农•W•派利夏恩, 中国人民大学出版社
+01439458, 8.5, 000111, 1999, 心我论, [美] 道格拉斯.R.霍夫施塔特(Douglas R.Hofstadter) / [美] 丹尼尔·C.丹尼特(D.C.Dennett), 上海译文出版社
+01195595, 8.8, 000182, 2004-10, 人工科学, [美] 司马贺, 上海科技教育出版社
+07067149, 8.8, 000390, 2012-1-1, 认知心理学及其启示, 约翰•R•安德森, 人民邮电出版社
+03076996, 8.0, 000116, 2008-5, 统计自然语言处理, 宗成庆, 清华大学出版社
+01968309, 0.0, 000005, 2006-12, 人工心理, 王志良, 机械工业
+01434564, 7.6, 000037, 2005-4, 情感计算, [美]罗莎琳德·皮卡德, 北京理工大学出版社
+01823801, 0.0, 000009, 2000-07-31, Affective Computing, Rosalind W. Picard, The MIT Press
+03789220, 0.0, 000000, 1980-3, Benjamin Lee Whorf, Peter C. Rollins, Umi Research Pr
+01230487, 8.8, 000227, 2004-6, 人工智能, Peter Norvig / Stuart Russell, 人民邮电出版社
+04703182, 0.0, 000003, 2009-8-28, How Can the Human Mind Occur in the Physical Universe?, John R. Anderson, Oxford University Press
+01916279, 0.0, 000000, 2001-6-9, Cognitive Development, John H. Flavell / Patricia H. Miller / Scott A. Miller, Prentice Hall
+04781479, 0.0, 000001, 1998-5-22, Memory, Elizabeth Ligon Bjork / Robert A. Bjork, Academic Press
+02845766, 0.0, 000000, 2002-07-10, Encyclopedia of the Human Brain, Four-Volume Set, Ramachandran, V. S. 编, Academic Press
+01774301, 9.3, 000067, 2005-9-1, Theoretical Neuroscience, Peter Dayan / Laurence F. Abbott, The MIT Press
+02843188, 0.0, 000001, 1997-04-01, Human Memory, A.D. Baddeley, Psychology Press
+04616633, 0.0, 000001, 2000-6-23, The Cognitive Neuroscience of Vision, Martha J. Farah, Wiley-Blackwell
+02899098, 0.0, 000003, 2005-8-3, Perception, Randolph Blake / Robert Sekuler, McGraw-Hill Humanities/Social Sciences/Languages
+03070647, 0.0, 000006, 1996, 人和动物的感情表达, 达尔文, 科学出版社
+02850412, 0.0, 000001, 2004-7, Essential Animal Behavior, Graham Scott, Wiley-Blackwell
+02076276, 9.2, 000011, 2003-02-07, An Introduction to the Psychology of Hearing, Brian C.J. Moore, Academic Press
+05937126, 9.3, 000509, 2011-2, 认知神经科学, Michael S. Gazzaniga / Richard B. Ivry / George R. Mangun, 中国轻工业出版社
+01499428, 8.8, 000019, 2002, Cognitive Neuroscience, Second Edition, Michael S. Gazzaniga / Richard B. Ivry / G. R. Mangun, W W Norton &amp; Co Inc (Np)
+03656410, 0.0, 000002, 2009-3, 神经系统发育, Larry Squire / Darwin Berg / Flody Bloom / Sascha du Lac / Anirvan Ghosh / Nicholas Spitzer, 科学出版社
+01962865, 9.1, 000125, 2006-12, 生物物理学, (美)菲利普·纳尔逊, 上海科学技术出版公司
+06560503, 6.6, 000047, 2011-7, 第四次革命, 扎克•林奇, 科学出版社
+03216250, 9.4, 000068, 2008-8, 认知、脑与意识, Bernard J. Baars / Nicole M. Gage, 科学出版社
+01899804, 8.0, 000253, 2006-07-01, 涌现, [美]约翰·霍兰, 上海科技出版社
+01444114, 6.9, 000124, 2005-9, 自由与神经生物学, 约翰·R·塞尔, 中国人民大学出版社
+05388227, 8.4, 000016, 2010-12, 荒野中的认知, （美）E.哈钦斯, 浙江大学出版社
+05388298, 7.1, 000047, 2010-8, 心智、大脑与计算机, （美）R.M.哈尼什, 浙江大学出版社
+03907869, 0.0, 000002, 2000-12-28, Circuits of the Mind, Leslie G. Valiant, Oxford University Press, USA
+01509898, 9.7, 000372, 2004-7, 神经科学, Mark F. Bear / Barry W. Connors / Michael A. Paradiso, 高等教育出版社
+03261411, 7.9, 000015, 2008-5, 认知神经科学基础, 魏景汉, 人民教育出版社
+02257937, 7.2, 000026, 2012-7, 神经心理学, 尹文刚, 科学
+01493784, 7.4, 000044, 2006, 认知神经科学教程, 罗跃嘉, 北京大学出版社
+03063859, 0.0, 000005, 2008-4, 脑觉醒与信息理论, 帕夫, 北京大学医学出版社
+01886014, 8.2, 000014, 2006-6, 神经信息学——神经系统的理论和模型, 汪云九/国别：, 高等教育出版社
+02304497, 0.0, 000006, 2007-10, 神经信息学及其应用, 唐焕文 / 唐一源 / 郭崇慧 / 陈克伟, 科学

@@ -1,0 +1,92 @@
+doulist, number of books, title
+45709528, 093, 学术界引用最多的 64 本书
+
+ID, rating, votes, date, title, author, publisher
+02845093, 0.0, 000003, 1983-09-22, Attachment, John Bowlby, Basic Books
+02848819, 0.0, 000004, 1984-3, Stress, Appraisal, and Coping, Lazarus, Richard S./ Folkman, Susan, Springer Pub Co
+11516520, 8.7, 000351, 2012-7, 动机与人格, [美]亚伯拉罕•马斯洛, 中国人民大学出版社
+01775733, 9.8, 000031, 1997-1-17, Motivation and Personality, Abraham H. Maslow / Robert D. (Editor) Frager / James (Editor) Fadiman, Pearson
+11445547, 8.6, 000075, 2012-8-1, 国家竞争优势（下）, 迈克尔•波特(Michael E. Porter), 中信出版社
+06753831, 9.0, 000118, 2012-8, 国家竞争优势（上）, 迈克尔·波特, 中信出版社
+26298597, 9.0, 001588, 2015-4, 我们赖以生存的隐喻, [美] 乔治·莱考夫 / [美] 马克· 约翰逊, 浙江大学出版社
+01456266, 9.1, 000434, 2003-4-15, Metaphors We Live By, George Lakoff / Mark Johnson, University Of Chicago Press
+02858447, 0.0, 000008, 2001-10, Qualitative Research &amp; Evaluation Methods, Michael Quinn Patton, Sage Publications, Inc
+03300402, 9.0, 000388, 2008-10, 制度、制度变迁与经济绩效, 道格拉斯·C·诺斯, 格致出版社
+01826293, 9.2, 000076, 1990-10-26, Institutions, Institutional Change and Economic Performance, Douglass C. North, Cambridge University Press
+26354330, 7.8, 000493, 2015-10, 区分, [法] 皮埃尔·布尔迪厄, 商务印书馆
+01343594, 9.1, 000206, 1984-7-1, Distinction, P Bourdieu, Harvard University Press
+02795168, 0.0, 000008, 1998-10-01, The Economic Institutions of Capitalism, Oliver E. Williamson, Free Press
+02111801, 9.2, 000145, 2007-3, 设计模式, 伽玛, 机械工业出版社
+04159347, 0.0, 000006, 2008-06-30, Time Series Analysis, George E. P. Box / Gwilym M. Jenkins / Gregory C. Reinsel, Wiley
+05911531, 8.6, 000507, 2011-1, 独自打保龄, [美] 罗伯特·帕特南 著 / 燕继荣 审校, 北京大学出版社
+01916895, 8.0, 000066, 2001-8-7, Bowling Alone, Robert D. Putnam, Touchstone Books by Simon &amp; Schuster
+03605495, 8.7, 000523, 2009-3-1, 国富论（上下）, 亚当·斯密, 上海三联书店
+01862256, 9.3, 000030, 1982-3-1, An Inquiry into the Nature and Causes of the Wealth of Nations  Vol. 1 &amp; 2, Adam Smith, Liberty Fund, Inc.
+03062632, 8.6, 003371, 2016-5-16, 日常生活中的自我呈现, [美] 欧文·戈夫曼, 北京大学出版社
+01475966, 9.0, 000121, 1959-6-1, The Presentation of Self in Everyday Life, Erving Goffman, Anchor
+02334588, 9.4, 000012, 2006-10-27, Physics of Semiconductor Devices, Simon M. Sze / Kwok K. Ng, Wiley-Interscience
+04154973, 8.4, 000170, 2009-12, 现实的社会构建, [美]彼得·伯格 / [美]托马斯·卢克曼, 北京大学出版社
+01934455, 8.6, 000057, 1967-7-11, The Social Construction of Reality, Peter L. Berger / Thomas Luckmann, Anchor
+02876245, 0.0, 000002, 2001-11-7, Applied Logistic Regression, David W. Hosmer Jr. / Stanley Lemeshow / Elizabeth D. Cook, Wiley-Blackwell
+05258931, 9.6, 000033, 2010-10, 计算机程序设计艺术卷1：基本算法(英文版.第3版), Donald E.Knuth, 人民邮电出版社
+01989199, 0.0, 000013, 2005-2-28, The Art of Computer Programming, Donald E. Knuth, Addison-Wesley Educational Publishers Inc
+01756954, 9.0, 000023, 1999-11-19, The Nature of Statistical Learning Theory, Vladimir Vapnik, Springer
+01320174, 9.1, 000089, 2005-5, 信息论基础, [美] Thomas M.Cover,Joy A.Thomas, 机械工业出版社
+02305237, 9.1, 000157, 2008-1, 信息论基础, [美]ThomasM.Cove, 机械工业出版社
+01822197, 8.9, 000108, 2006-7, Elements of Information Theory, Thomas M. Cover / Joy A. Thomas, Wiley-Blackwell
+05952531, 8.1, 000130, 2011-3, 神经网络与机器学习（原书第3版）, [加] Simon Haykin, 机械工业出版社
+01484634, 0.0, 000009, 1998-07-06, Neural Networks, Simon Haykin, Prentice Hall
+20432061, 9.3, 001030, 2012-12, 算法导论（原书第3版）, Thomas H.Cormen / Charles E.Leiserson / Ronald L.Rivest / Clifford Stein, 机械工业出版社
+01433399, 9.4, 000360, 2001-9-1, Introduction to Algorithms, Thomas H. Cormen / Charles E. Leiserson / Ronald L. Rivest / Clifford Stein, The MIT Press
+04051739, 8.7, 002601, 2009-10-1, 第五项修炼, 彼得·圣吉, 中信出版社
+01763614, 8.7, 000080, 2006-3-21, The Fifth Discipline, Peter M. Senge, Doubleday
+01323270, 8.3, 000056, 2003-12, 自我效能（上下册）, A·班杜拉, 华东师范大学出版社
+02272482, 0.0, 000002, 1997-2-15, Self-Efficacy, Albert Bandura, Worth Publishers
+01667522, 8.9, 000125, 2004年04月, 经典电动力学, John David Jackson, 高等教育出版社
+01463274, 8.9, 000090, 1998-8-10, Classical Electrodynamics Third Edition, John David Jackson, Wiley
+25870722, 8.2, 000117, 2014-8, 文化的解释, [美] 克利福德·格尔茨, 译林出版社
+01438789, 9.3, 000137, 1977-4-28, The Interpretation of Cultures, Clifford Geertz, Basic Books
+01322408, 7.7, 000040, 1997-04, 情景学习, J·莱夫, 华东师范大学出版社
+02848628, 8.2, 000012, 1991-9-27, Situated Learning, Jean Lave / Etienne Wenger, Cambridge University Press
+02537556, 0.0, 000005, 1985-4, Naturalistic Inquiry, Yvonna S. Lincoln / Egon Guba, SAGE Publications
+20258505, 9.4, 001338, 2012-9, 规训与惩罚(修订译本)(第4版), [法] 米歇尔·福柯, 生活·读书·新知三联书店
+01417641, 9.4, 000261, 1995-4-25, Discipline &amp; Punish, Michel Foucault, Vintage Books
+01478249, 9.5, 000033, 1968-1-1, An Introduction to Probability Theory and Its Application, William Feller, John Wiley &amp; Sons
+25872911, 8.2, 000119, 2014-4-1, 被压迫者教育学（修订版）, 保罗•弗莱雷, 华东师范大学出版社
+01958248, 8.6, 000068, 2000-9-1, Pedagogy of the Oppressed, Paulo Freire, Bloomsbury Academic
+02196427, 0.0, 000002, 2007-5, 积分、级数和乘积表, I.S.Gradshteyn, 北京世图
+01323106, 8.1, 000062, 2001-12-1, 思想和行动的社会基础：社会认知论（上、下册）, （美）班杜拉, 华东师范大学出版社
+03918843, 0.0, 000001, 1985-10-11, Social Foundations of Thought and Action, Albert Bandura, Prentice Hall
+01463409, 0.0, 000007, 2005-11-7, Multivariate Data Analysis, Joseph F. Hair / Bill Black / Barry Babin / Rolph E. Anderson / Ronald L. Tatham, Prentice Hall
+01812826, 0.0, 000009, 2006-3-3, Using Multivariate Statistics, Barbara G. Tabachnick / Linda S. Fidell, Allyn &amp; Bacon
+02193418, 0.0, 000008, 1965-06-01, Handbook of Mathematical Functions, Milton Abramowitz / Irene A. Stegun, Dover Publications
+02222938, 9.2, 000011, 1994-2-9, Qualitative Data Analysis, Matthew B.Miles / A. Michael Huberman, SAGE Publications, Inc
+04784701, 0.0, 000000, 1996-5-1, Principles and Procedures of Statistics, Robert G. Steel / James H. Torrie / David A. Dickey, McGraw-Hill Companies
+05975393, 9.4, 000044, 2011-3-1, 矩阵计算, Gene H.Golub / Charles F.Van Loan, 人民邮电出版社
+01822485, 9.4, 000033, 1996-10-15, Matrix Computations, Gene H. Golub / Charles F. Van Loan, Johns Hopkins University Press
+01549876, 0.0, 000007, 2001-1-1, 清华经济学影印教材  计量经济分析, William H.Greene, 清华大学出版社
+01609627, 8.0, 000070, 2002-8-22, Econometric Analysis, William H. Greene, Pearson
+04062447, 9.7, 000059, 2009-10, 光学原理, 马科斯·玻恩（Born.M.） / 埃米尔·沃耳夫（Wolf.E.）, 电子工业出版社
+01772187, 9.6, 000018, 1999-10-13, Principles of Optics, Max Born / Emil Wolf, Cambridge University Press
+02266607, 9.8, 000029, 1978, Mind in Society, Ls Vygotsky, Harvard University Press
+02330824, 9.6, 000038, 1979-4-26, Computers and Intractability, M R Garey / D S Johnson, W. H. Freeman
+04000736, 9.1, 000547, 2009-08, 正义论（修订版）, [美]约翰·罗尔斯 著, 中国社会科学出版社
+01340744, 9.3, 000183, 1999-9-30, A Theory of Justice, John Rawls, Belknap Press
+04277958, 0.0, 000001, 1988-01-01, Nonparametric Statistics for The Behavioral Sciences, Sidney Siegel / N. John Castellan Jr., McGraw-Hill Humanities/Social Sciences/Languages
+06772248, 8.7, 000617, 2011-8, 想象的共同体（增订版）, [美]本尼迪克特·安德森, 上海人民出版社
+02563446, 9.2, 000326, 2006-11-17, Imagined Communities, Benedict Anderson, Verso
+04754930, 0.0, 000000, 2004-11-24, The Rat Brain in Stereotaxic Coordinates - The New Coronal Set, Fifth Edition, George Paxinos / Charles Watson, Academic Press
+01037247, 8.9, 000047, 1985-1-1, Competitive Advantage, Michael E. Porter, The Free Press
+26752693, 8.1, 000186, 2016-1-1, 创新的扩散（第五版）, [美] E.M.罗杰斯（Everett M. Rogers）, 电子工业出版社
+04205920, 0.0, 000007, 1989-07-07, Diffusion of Innovations, Musmann, Klaus; Kennedy, William; Kennedy, William H., Greenwood Press
+01922519, 0.0, 000004, 1994-1-1, Psychometric Theory, Jum C. Nunnally / Ira H. Bernstein, McGraw-Hill
+01817053, 8.8, 000013, 1967, The Discovery of Grounded Theory, Barney G. Glaser / Anselm L. Strauss, Aldine de Gruyter
+01610247, 0.0, 000005, 1989-01-01, Genetic Algorithms in Search, Optimization, and Machine Learning, David  E. Goldberg, Addison-Wesley Professional
+02880022, 0.0, 000002, 1988-7-1, Statistical Power Analysis for the Behavioral Sciences, Jacob Cohen, Routledge
+02853459, 0.0, 000005, 2009-02-25, Biostatistical Analysis (5th Edition), Jerrold H. Zar, Prentice Hall
+20376550, 9.1, 001529, 2012-11, 科学革命的结构, [美]托马斯·库恩 / [美]伊安·哈金 (导读), 北京大学出版社
+01417091, 9.3, 000184, 1996-12-15, The Structure of Scientific Revolutions, Thomas S. Kuhn, University Of Chicago Press
+05361384, 8.6, 000058, 2010-10, 案例研究（中文第2版）, 罗伯特.K.殷, 重庆大学出版社
+03762477, 9.0, 000039, 2008-10-31, Case Study Research, Robert K. Yin, SAGE Publications, Inc
+01967994, 9.5, 000015, 2001-01-15, Molecular Cloning, Joseph Sambrook / David W. Russell, Cold Spring Harbor Laboratory Press
+02173399, 9.3, 000079, 2007-9-6, Numerical Recipes 3rd Edition, William H. Press / Saul A. Teukolsky / William T. Vetterling / Brian P. Flannery, Cambridge University Press

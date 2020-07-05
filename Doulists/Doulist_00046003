@@ -1,0 +1,84 @@
+doulist, number of books, title
+00046003, 080, 『只读经典』思维改变生活（原“心理学改变生活”）
+
+ID, rating, votes, date, title, author, publisher
+02698093, 0.0, 000012, 2003-3-19, Calculated Risks, Gerd Gigerenzer, Simon &amp; Schuster
+11577350, 8.9, 000101, 2012-9-29, How to Think Straight About Psychology, Keith E. Stanovich, Pearson
+02842069, 8.2, 000038, 1998-3-17, The Power of Mindful Learning, Ellen J. Langer, Da Capo Press
+04764033, 8.4, 000040, 1990, Mindfulness, Ellen J. Langer, RecordedBooks
+02252432, 7.7, 000034, 2007-7-5, Gut Feelings, Gerd Gigerenzer, Viking Adult
+02348305, 8.0, 000037, 2004-5-15, Strangers to Ourselves, Timothy D. Wilson, Belknap Press of Harvard University Press
+06898965, 7.0, 000018, 2011-11-22, What Makes Your Brain Happy and Why You Should Do the Opposite, David DiSalvo, Prometheus Books
+06761669, 8.8, 000408, 2011-9, Willpower, Roy F. Baumeister / John Tierney, Penguin Press
+03412283, 8.7, 000021, 2008-12-15, The Accidental Mind, David J. Linden, Belknap Press of Harvard University Press
+04860603, 9.1, 000066, 2010-8-24, Not by Chance Alone, Elliot Aronson, Basic Books
+02739403, 8.4, 000013, 2000-12-26, The Scientist in the Crib, Alison Gopnik / Andrew N. Meltzoff / Patricia K. Kuhl, William Morrow Paperbacks
+04026180, 0.0, 000004, 2005-12-19, The Norton Psychology Reader, Gary Marcu, W. W. Norton &amp; Company
+04150530, 7.9, 000010, 2009-5-26, Fixing My Gaze, Susan R. Barry, Basic Books
+04844162, 8.4, 000085, 2010-5-18, The Invisible Gorilla, Christopher Chabris / Daniel Simons, Crown Publishing Group (NY)
+04157059, 8.6, 000199, 2010-2-16, Switch, Chip Heath / Dan Heath, Crown Business
+06423598, 8.9, 000079, 2011-5-31, Incognito, David Eagleman, Pantheon
+04476847, 0.0, 000004, 2009-6-2, The Vision Revolution, Mark Changizi, BEN BELLA
+01474214, 8.2, 000020, 1999-12-9, The Number Sense, Stanislas Dehaene, Oxford University Press
+04798090, 8.0, 000020, 2010-10-26, Reading in the Brain, Stanislas Dehaene, Penguin Books
+02849665, 8.7, 000142, 2006-12-1, The Happiness Hypothesis, Jonathan Haidt, Basic Books
+01868282, 9.2, 000058, 1999-8-18, Phantoms in the Brain, V. S. Ramachandran / Sandra Blakeslee, William Morrow Paperbacks
+04771145, 9.3, 000075, 2011-1-17, The Tell-Tale Brain, V. S.  Ramachandran, W. W. Norton &amp; Co.
+04198063, 7.9, 000037, 2009-4-7, Kluge, Gary Marcus, Mariner Books
+02844232, 0.0, 000004, 2004-04-10, Intuition, Professor David G. Myers, Yale University Press
+03129154, 7.1, 000134, 2008-8, 你的记忆怎么了？, （美）夏克特, 北方文艺出版社
+03324610, 7.3, 000924, 2009-01, 摇摆, （美）奥瑞·布莱福曼 / （美）罗姆·布莱福曼, 中信出版社
+03440613, 8.3, 000187, 2009-02-09, How We Decide, Jonah Lehrer, Houghton Mifflin Co
+02370985, 8.6, 000146, 2007-12-18, The Brain That Changes Itself, Norman Doidge, Penguin Books
+01395497, 8.5, 000145, 2004-12-2, Mind Hacks, Tom Stafford / Matt Webb, O&#39;Reilly Media
+02848329, 9.1, 000217, 2007-5-3, Making Up the Mind, Chris Frith, Wiley-Blackwell
+03373894, 7.1, 000371, 2009-1, 说服力, 罗伯特•西奥迪尼, 天津教育出版社
+01007073, 8.0, 000618, 2004-01, 语言本能, 史迪芬·平克, 汕头大学出版社
+01001737, 7.9, 000592, 1999-09, 失败的逻辑, （德国）迪特里希.德尔纳, 上海科技教育出版社
+03287264, 8.6, 000072, 2008-3, Mistakes Were Made, Carol Tavris / Elliot Aronson, Mariner Books
+02841807, 8.0, 000029, 2000, Why Smart People Make Big Money Mistakes and How to Correct Them, Gary Belsky / Thomas Gilovich, Simon &amp; Schuster
+01599035, 8.4, 000219, 2002-9, 简捷启发式, [德] 哥德·吉戈伦尔 / [德] 彼得·M. 托德, 华东师范大学出版社
+01476760, 8.9, 000022, 2000-9, Simple Heuristics That Make Us Smart, Gerd Gigerenzer / Peter M. Todd / ABC Research Group, Oxford University Press
+02862093, 8.7, 000025, 2005-8-1, On Intelligence, Jeff Hawkins / Sandra Blakeslee, St. Martin&#39;s Griffin
+01316512, 7.9, 000257, 2005-02-01, The Paradox of Choice, Barry Schwartz, Harper Perennial
+01315575, 8.3, 000483, 1998, 找寻逝去的自我, [美]丹尼尔·夏克 (Daniel L.Schacter), 吉林人民出版社
+02188955, 0.0, 000009, 2007-3-20, Stumbling on Happiness, Daniel Gilbert, Vintage
+02345245, 9.4, 000032, 2003-1-28, Synaptic Self, Joseph LeDoux, Penguin Books
+01035843, 7.9, 000207, 2001-4, 谜米机器, [英] 苏珊·布莱克摩尔, 吉林人民出版社
+02296845, 6.8, 000400, 2007-9, 专注力, （美）埃伦·兰格, 中国人民大学出版社
+01100657, 8.1, 000911, 2002-6, 统计陷阱, [美] 达莱尔·哈夫, 上海财经大学出版社
+02872398, 9.3, 000169, 2007-3-17, In Search of Memory, Eric R. Kandel, W. W. Norton &amp; Company
+01697556, 9.9, 000093, 2000-1-1, Principles of Neural Science, Eric R. Kandel / James H. Schwartz / Thomas M. Jessell, McGraw-Hill Medical
+02990015, 8.5, 000911, 2008, Predictably Irrational, Dan Ariely, Harper Collins
+01020358, 8.5, 000179, 1998-01, 学习乐观, [美] 马丁·塞利格曼, 新华出版社
+02307720, 8.3, 002741, 2007-10, 幸福的方法, （以）泰勒•本-沙哈尔, 当代中国出版社
+01964398, 7.9, 000146, 2007-1, 幸福之源, (德)斯特凡.克莱因, 中信出版社
+01134230, 9.2, 000348, 2001-7, 数学与猜想（第一卷）, [美] G. 波利亚, 科学出版社
+01944205, 8.9, 001307, 2007-1, 追寻记忆的痕迹, [美] 埃里克·坎德尔, 中国轻工业出版社
+01504957, 8.6, 005751, 2006-1, 学会提问, 布朗, 中国轻工业出版社
+01292405, 8.6, 006481, 1998-10, 自私的基因, (英)里查德.道金斯, 吉林人民出版社
+01147347, 8.8, 003097, 2004-1-1, 改变心理学的40项研究, 〔美〕Roger R Hock著, 中国轻工业出版社
+01898860, 8.8, 000052, 2006-7-13, How to Think Straight About Psychology, Keith E. Stanovich, Allyn &amp; Bacon
+01221479, 8.9, 001695, 2005-2-1, 与“众”不同的心理学, Keith E.Stanovich, 中国轻工业出版社
+02328178, 9.0, 001759, 2007-11-1, 态度改变与社会影响, 菲利普·津巴多 (Philip G. Zimbardo) / 迈克尔·利佩 (Michael R. Leippe), 人民邮电出版社
+01193622, 8.3, 000844, 2004-09-01, 自我, (美)乔纳森·布朗, 人民邮电出版社
+01931769, 9.2, 000523, 2006-10-01, 心理学, 戴维·迈尔斯, 人民邮电
+02328458, 9.1, 008440, 2007-12, 社会性动物, Elliot Aronson, 华东师范大学出版社
+01829747, 9.1, 000744, 2006-2-10, Asking the Right Questions, M. Neil Browne / Stuart M. Keeley, Prentice Hall
+02383735, 8.9, 000046, 1993-3-5, How We Know What Isn&#39;t So, Thomas Gilovich, Free Press
+01128662, 7.8, 000790, 2007-1, 欲望之源, 伯纳姆, 中信出版社
+01712350, 7.6, 000137, 2005-10, 动机心理学, 皮特里, 陕西师范大学出版社
+01437973, 8.7, 003732, 2005-10, 亲密关系, [美] 莎伦·布雷姆 / 丹尼尔·珀尔曼 / 罗兰·米勒 / 苏珊·坎贝尔, 人民邮电出版社
+01969983, 8.5, 000327, 2007-1, 物种起源, 达尔文, 新世界
+02259198, 8.9, 001403, 2007-8, 合作的进化, [美]罗伯特·阿克塞尔罗德, 上海人民出版社
+01901251, 8.6, 000166, 2006, The God Delusion, Dawkins Richard, Houghton Mifflin
+01777630, 9.0, 000757, 2006-5-25, The Selfish Gene, Richard Dawkins, OUP Oxford
+01032501, 8.8, 016305, 2003-10, 心理学与生活, [美] 理查德·格里格 / 菲利普·津巴多, 人民邮电出版社
+02143904, 8.8, 003715, 2007-6, 进化心理学, David M.Buss, 华东师范大学出版社
+01874488, 8.1, 006009, 2006-8, 别做正常的傻瓜, 奚恺元, 机械工业出版社
+01475779, 9.1, 000078, 2000-06-29, Influence, Robert B. Cialdini, Allyn &amp; Bacon
+01189957, 9.1, 000368, 2004-10, 改变心理学的40项研究, Roger R.Hock, 轻工业
+01193621, 8.5, 003390, 2004-9, 决策与判断, [美]斯科特·普劳斯, 人民邮电出版社
+01005576, 8.9, 005248, 2001-12, 影响力, [美] 罗伯特·B. 西奥迪尼, 中国社会科学出版社
+01476651, 9.0, 017645, 2006-1, 社会心理学, [美] 戴维·迈尔斯, 人民邮电出版社
+02122637, 8.1, 001698, 2007-5, 20世纪最伟大的心理学实验, [美] 劳伦·斯莱特, 中国人民大学出版社

@@ -1,0 +1,27 @@
+doulist, number of books, title
+01244005, 023, 全世界程序员都说好的图书
+
+ID, rating, votes, date, title, author, publisher
+01481058, 8.5, 000139, 2002-1-4, How to Think Like a Computer Scientist: Learning with Python, Allen B. Downey / Jeffrey Elkner / Chris Meyers, Green Tea Press
+05363753, 8.0, 000268, 2010, Learn Python The Hard Way, 1st Edition, Zed Shaw, Lulu.com
+01231910, 9.5, 000838, 2002-8, 具体数学（英文版第2版）, [美] Ronald L. Graham / Donald E. Knuth / Oren Patashnik, 机械工业出版社
+02193777, 7.7, 000168, 2007-7, Joel谈优秀软件开发方法, Joel Spolsky, 清华大学
+04924164, 8.4, 000466, 2010年9月, 软件开发者路线图, Dave H. Hoover / Adewale Oshineye, 机械工业出版社
+03558788, 8.1, 000868, 2009-3, 卓有成效的程序员, Neal Ford, 机械工业出版社
+05387401, 9.0, 000282, 2011-1, UNIX编程艺术, Eric S. Raymond, 电子工业出版社
+05387402, 8.8, 001052, 2011-1, 程序员修炼之道, Andrew Hunt / David Thomas, 电子工业出版社
+04163938, 8.7, 002321, 2009, 软件随想录, Joel Spolsky, 人民邮电出版社
+05355285, 8.5, 000596, 2011-1-1, 编程人生, Peter Seibel, 人民邮电出版社
+04719230, 7.5, 000298, 2010-04, 编程之魂, Federico Biancuzzi / Shane Warden, 电子工业出版社
+01291204, 9.4, 006396, 1997-5, 哥德尔、艾舍尔、巴赫, [美] 侯世达, 商务印书馆
+02152385, 9.0, 000115, 2007-6, 程序设计语言, 斯科特, 电子工业出版社
+02243615, 9.2, 003109, 2007-9, Head First 设计模式（中文版）, 弗里曼, 中国电力出版社
+03296317, 9.1, 000921, 2008年12月, 编译原理, Alfred V. Aho / Monica S.Lam / Ravi Sethi / Jeffrey D. Ullman, 机械工业出版社
+02703048, 8.8, 000026, 2008-1, 计算机程序设计艺术（第1卷 英文版・第3版）, 高德纳, 机械工业
+02111801, 9.2, 000145, 2007-3, 设计模式, 伽玛, 机械工业出版社
+02230248, 8.6, 001350, 2007-9, 人月神话, 弗雷德里克.布鲁克斯, 清华大学出版社
+01885170, 9.3, 004993, 2006-9, 算法导论（原书第2版）, [美] Thomas H.Cormen / Charles E.Leiserson / Ronald L.Rivest / Clifford Stein, 机械工业出版社
+04262627, 9.0, 001874, 2010, 重构, Martin Fowler, 人民邮电出版社
+01230004, 9.6, 000182, 1998-4, C程序设计语言, Brian W.Kernighan / Dennis M.Ritchie, 清华大学出版社
+01148282, 9.5, 002359, 2004-2, 计算机程序的构造和解释(原书第2版), Harold Abelson / Gerald Jay Sussman / Julie Sussman, 机械工业出版社
+01477390, 9.3, 003857, 2006-3, 代码大全（第2版）, [美] 史蒂夫·迈克康奈尔, 电子工业出版社

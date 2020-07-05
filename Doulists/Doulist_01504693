@@ -1,0 +1,59 @@
+doulist, number of books, title
+01504693, 059, 生命科学、分子生物学、生物信息学
+
+ID, rating, votes, date, title, author, publisher
+07059611, 8.4, 000121, 2011-10, 最年轻的科学, 刘易斯·托马斯, 湖南科学技术出版社
+01014496, 8.8, 000128, 1996-06, 最年轻的科学-观察医学的札记, 刘易斯・托马斯, 青岛出版社
+03529186, 0.0, 000009, 2007-12-7, Molecular Biology of the Gene, James D. Watson / Tania A. Baker / Stephen P. Bell / Alexander Gann / Michael Levine / Richard Losick / Inglis CSHLP, Pearson
+10798963, 8.5, 000030, 2012-7, 漫画生理学, 田中 越郎, 科学出版社
+04831009, 8.1, 000095, 2010-5, 漫画生物化学, 武村政春 / 菊野郎 [绘], 科学出版社
+04830747, 7.6, 000091, 2010-5, 漫画分子生物学, [日] 武村政春, 科学出版社
+02081738, 0.0, 000009, 2002-05-24, Biochemistry &amp; Molecular Biology of Plants, Buchanan, Bob B. (EDT)/ Gruissem, Wilhelm/ Jones, Russell L., Wiley
+01918203, 0.0, 000005, 2006-03-24, Developmental Biology, Eighth Edition, Scott F. Gilbert, Sinauer Associates Inc.
+03116794, 0.0, 000003, 2008-5, 遗传学：从基因到基因组, L.H. 哈特韦尔, 科学出版社
+01134186, 0.0, 000002, 2002年1月1日, Roitt免疫学基础影印版, Roitt, 第10版 (2002年1月1日)
+01439914, 9.3, 000024, 2004-01-09, Molecular Biology of the Gene, James D. Watson / Tania A. Baker / Stephen P. Bell / Alexander Gann / Michael Levine / Richard Losick, Benjamin Cummings
+01894572, 9.4, 000074, 2006-5, 有机化学, K.彼得, 化学工业
+01234113, 0.0, 000005, 1900-01-01, 生物信息学基因和蛋白质分析的实用指南, 李衍达等译, 清华大学出版社
+02183420, 8.6, 000055, 2007-7, 生物信息学算法导论, N.C.琼斯, 第1版 (2007年7月1日)
+01667700, 0.0, 000005, 2003-1, 生物信息学, 韦斯特海德, 科学出版社发行部
+01823648, 0.0, 000010, 2004-07-01, Bioinformatics, David W. Mount, Cold Spring Harbor Laboratory Press
+01476549, 0.0, 000012, 2003-12-15, Genes VIII, Benjamin Lewin, Benjamin Cummings
+02859809, 0.0, 000006, 2006-12-18, Bioinformatics for Dummies, Jean-Michel Claverie / Cedric Notredame, For Dummies
+02029729, 8.0, 000026, 2001-10-15, Beginning Perl for Bioinformatics, James Tisdall, O&#39;Reilly Media
+02751057, 0.0, 000001, 2003-9-25, Mastering Perl for Bioinformatics, Tisdall, James D., Oreilly &amp; Associates Inc
+03838189, 0.0, 000009, 2009, Bioinformatics Programming Using Python, Mitchell L Model, / James Tisdall, O&#39;Reilly Media, Inc.
+01803961, 8.2, 000286, 2006-2, 双螺旋, [美] J. D. 沃森, 科学出版社
+03267841, 9.5, 000066, 2007-11-20, Molecular Biology of the Cell, Bruce Alberts / Alexander Johnson / Julian Lewis / Martin Raff / Keith Roberts / Peter Walter, Garland Science
+01002429, 7.3, 000059, 1998-12, PCR传奇, 保罗・拉比诺, 上海科技教育出版社
+01453798, 8.7, 000184, 2007-6, 寻找生命的逻辑, 方舟子, 上海交通大学出版社
+02854616, 9.4, 000079, 2008-1-2, Molecular Biology of the Cell, Bruce Alberts / Alexander Johnson / Julian Lewis / Martin Raff / Keith Roberts / Peter Walter, Garland Science
+01275320, 8.5, 000021, 2000-02, 化学与人类, 刘旦初, 复旦大学出版社
+01280092, 8.8, 000084, 2003-04, 神经生物学, John G. Nicholls / A. Robert Martin / Bruce G. Wallace / Pawl A. Fuchs, 科学出版社
+04832632, 9.1, 000038, 2010-4, 进化, 巴顿 Barton,N.H., 科学出版社
+01117701, 7.6, 000012, 2001, 神经元, Irwin B. Levitan / Leonard K. Kaczmarek, 科学出版社
+04236336, 9.1, 000025, 2010-1, 分子生物学, Robert F.Weaver, 科学出版社
+01508128, 0.0, 000001, 2002, 后基因组信息学, Minoru Kanehisa, 清华大学出版社
+01435394, 9.1, 000074, 2005-8, 分子生物学实验室工作手册, K.巴克, 科学出版社
+01457461, 9.4, 000107, 2008-1-2, Lehninger Principles of Biochemistry, Michael Cox / David L. Nelson, Palgrave Macmillan
+01514210, 8.6, 000015, 2004-2, 植物生物化学与分子生物学, B.B.布坎南 编 / W.格鲁依森姆 编 / R.L.琼斯 编, 科学出版社
+02162017, 0.0, 000009, 2006-1, 基因IX, Benjamin Lewin, 科学出版社
+01965494, 8.5, 000012, 2006-12, 基因VIII精要, 本杰明·卢因, 科学出版社
+01132985, 8.6, 000021, 2003-1, 基础生物化学, 沃伊特, 科学出版社
+01280917, 8.7, 000145, 2005-10-01, 基因VⅢ, （美）本杰明·卢因, 科学出版社
+01650993, 9.1, 000194, 2005, Lehninger生物化学原理（第3版）, David L.Nelson / Michael M.Cox, 高等教育出版社
+01444939, 8.9, 000061, 2005-9-1, 基因的分子生物学, James D. Watson / Tania A. Baker / Stephen P. Bell / Alexander Gann / Michael Levine / Richard Losick, 科学出版社
+01280130, 8.4, 000040, 2004-1, 探索基因组学、蛋白质组学和生物信息学, (美)A.马尔科姆·坎贝尔等著;孙之荣, 科学分社
+01649497, 8.1, 000380, 2002-8, 生物化学（下册）, 王镜岩 / 朱圣庚 / 徐长法 主编, 高等教育出版社
+01509713, 8.0, 000536, 2002-9, 生物化学（上册）, 王镜岩 / 朱圣庚 / 徐长法 主编, 高等教育出版社
+01028077, 8.2, 000301, 2001-12, 师从天才, [美] 罗伯特·卡尼格尔, 上海科技教育出版社
+01292405, 8.6, 006481, 1998-10, 自私的基因, (英)里查德.道金斯, 吉林人民出版社
+01527268, 9.0, 000043, 2003-1, 生长和形态, 达西·汤普森（D&#39;Arcy Wentworth Thompson）, 上海科学技术出版社
+01008676, 8.0, 000110, 2001-8-1, 双螺旋, James D.Watson, 生活·读书·新知三联书店
+01135279, 8.4, 000043, 2003-8-1, φ的故事:解读黄金比例, 马里奥・利维奥, 长春出版社
+03684752, 9.3, 000050, 2009-3, 生物技术入门, 莱因哈德·伦内贝格 / 达嘉·苏斯比尔, 科学出版社
+01046794, 8.5, 000107, 1997-1, 伊甸园之河, 理查德·道金斯, 上海科学技术出版社
+01317485, 8.7, 003270, 2007-4-1, 生命是什么, 埃尔温•薛定谔, 湖南科学技术出版社
+01594554, 8.6, 000027, 2000-12, 基因的艺术  世界科普名著精选, 恩里科·科恩, 湖南教育出版社
+01219557, 9.0, 000215, 2005-01-01, 创世纪的第八天, [美] 霍勒斯·贾德森(Horace Freeland Judson), 上海科学技术出版社
+01428117, 8.9, 000974, 1997-07-01, 普通生物学, 陈阅增, 高等教育出版社

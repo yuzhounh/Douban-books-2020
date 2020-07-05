@@ -1,0 +1,78 @@
+doulist, number of books, title
+00164439, 074, O&#39;Reilly 之动物书
+
+ID, rating, votes, date, title, author, publisher
+06776312, 0.0, 000009, 2011-8, Java SOA Cookbook中文版, 休依特, 清华大学出版社
+06049132, 7.9, 000549, 2011-4, Python学习手册（第4版）, [美] Mark Lutz, 机械工业出版社
+03134515, 8.5, 000210, 2008-12-01, Real World Haskell, Bryan O&#39;Sullivan / John Goerzen / Don Stewart, O&#39;Reilly Media
+03220004, 8.3, 000271, 2009, Hadoop: The Definitive Guide, Tom White, O&#39;Reilly Media, Inc.
+04817792, 7.2, 000260, 2010-5, Hadoop权威指南(中文版), (美) Tom White, 清华大学出版社
+03753486, 9.2, 000023, 2009-4, 算法技术手册, [美]海涅曼 (Heineman.G.T.) / [美]波利切 (Pollice.G.) / [美]塞克欧 (Selkow.S.), 东南大学出版社
+01240792, 0.0, 000008, 2002-1, Internet核心协议权威指南, Hall, 中国电力出版社
+01925110, 9.7, 000026, 2005-12-23, C in a Nutshell, Peter Prinz / Tony Crawford, O&#39;Reilly Media
+02367867, 8.1, 000130, 2007-11-01, ActionScript 3.0 Cookbook中文版, Joey Lott / Adobe Dev Library, 电子工业
+03243372, 8.6, 000058, 2008-8-1, 学习PYTHON 第三版(英文影印版), (美国)(Lutz.M.)卢茨, 东南大学出版社
+03045359, 6.9, 000025, 2008-3, MySQL Cookbook（中文版）, 迪布瓦, 电子工业出版社
+01475895, 0.0, 000003, 2002-11, MySQL Cookbook, Paul DuBois, O&#39;Reilly Media
+02285930, 8.5, 000026, 2007-01-27, MySQL Cookbook, Paul DuBois, O&#39;Reilly Media
+02326601, 6.7, 000010, 2007-11, 学习Ruby, (美)菲茨杰拉德, 东南大学出版社
+03029411, 7.0, 000100, 2008-2, 学习Ruby, Fitzgerald,M, 机械工业出版社
+01434964, 7.8, 000052, 2005-6, GNU Make项目管理, 梅克伦伯格, 东南大学出版社
+01723151, 8.7, 000467, 2006-1-1, Linux设备驱动程序, 科波特, 中国电力出版社
+01105363, 7.8, 000121, 2003-1, lex与yacc, [美] John R.Levine / [美] Tony Mason / [美] Doug Brown, 机械工业出版社
+02303791, 0.0, 000002, 2007-11-13, Mac OS X Leopard Pocket Guide, Chuck Toporek, O&#39;Reilly Media
+02994925, 9.1, 000535, 2008-5, JavaScript, Douglas Crockford, Yahoo Press
+01767951, 7.7, 000014, 2005-10-13, Essential PHP Security, Chris Shiflett, O&#39;Reilly Media
+01440428, 8.0, 000064, 22 June, 2004, Version Control with Subversion, C. Michael Pilato / Ben Collins-Sussman / Brian W. Fitzpatrick, O&#39;Reilly Media, Inc.
+01467793, 8.4, 000099, 2005-07-14, Learning Perl, Fourth Edition, Randal L. Schwartz / Tom Phoenix / brian d foy, O&#39;Reilly Media, Inc.
+02054201, 7.8, 000116, 2007-5-18, RESTful Web Services, Leonard Richardson / Sam Ruby, O&#39;Reilly Media
+01418172, 8.3, 000232, 2005-3-18, Python Cookbook, Alex Martelli / Anna Ravenscroft / David Ascher, O&#39;Reilly Media
+01440226, 8.6, 000218, 2002-10-7, HTTP, David Gourley / Brian Totty, O&#39;Reilly Media
+01432344, 8.6, 000032, 2002-07-15, Mastering Regular Expressions, Second Edition, Jeffrey E F Friedl, O&#39;Reilly Media
+01872091, 8.7, 000090, 2006-8-15, Mastering Regular Expressions 3rd, Jeffrey E.F. Friedl, O&#39;Reilly Media
+01443563, 0.0, 000005, 2002-10-4, Creating Applications with Mozilla, David Boswell / Brian King / Ian Oeschger / Pete Collins / Eric Murphy, O&#39;Reilly Media
+01486020, 8.0, 000018, 2001-6, Web Caching, Duane Wessels, O&#39;Reilly Media, Inc.
+01495763, 9.3, 000132, 2004-4-18, High Performance MySQL, Jeremy D. Zawodny / Derek J. Balling, O&#39;Reilly Media
+02084131, 8.7, 000153, 2007-9-21, High Performance Web Sites, Steve Souders, O&#39;Reilly Media
+01442019, 7.9, 000101, 2005-03-29, Learning the bash Shell, Cameron Newham / Bill Rosenblatt, O&#39;Reilly Media, Inc.
+01924288, 7.9, 000049, 2007-4-17, Understanding MySQL Internals, Sasha Pachev, O&#39;Reilly Media
+02005622, 7.7, 000134, 2006-11, PYTHON技术手册, 马特利, 东南大学出版社
+01772258, 8.4, 000066, 2006-5-26, Building Scalable Web Sites, Cal Henderson, O&#39;Reilly Media
+01944877, 7.2, 000022, 2006-11, Unix与Linux系统管理, 弗里斯科比, 清华大学出版社
+01427858, 8.0, 000026, 2004, Squid: The Definitive Guide, Duane Wessels, O&#39;Reilly Media
+01915868, 8.3, 000169, 2006, Python编程（第三版·英文影印版）, Mark Lutz, 东南大学出版社
+01452125, 6.7, 000046, 2005-10-20, Twisted Network Programming Essentials, Abe Fettig, O&#39;Reilly Media, Inc.
+01763002, 6.9, 000029, 2006-4, Apache经典实例, （美）科尔（Coar,K.） / （美）鲍恩（Bowen,R.）, 东南大学出版社
+01236987, 7.7, 000202, 2003-1, 学习GNU Emacs, [美] Debra Cameron / Bill Rosenblatt / Hric Raymond, 机械工业出版社
+02209702, 8.9, 000426, 2007-8-26, Programming Collective Intelligence, Toby Segaran, O&#39;Reilly Media
+02974431, 8.3, 000033, 2007-12, 802.11无线网络权威指南, 加斯特, 东南大学出版社
+01439011, 0.0, 000000, 1999, Perl 模组, Erik Olson, O&#39;Reilly
+01775180, 7.5, 000017, 2006-10-01, CSS Cookbook, Christopher Schmitt, O&#39;Reilly Media, Inc.
+01231667, 0.0, 000005, 2001-11-1, XML技术手册, 哈诺尔德 / 明斯, 中国电力出版社
+01825563, 7.5, 000020, 2006-5, WEB设计技术手册, Jennifer Niederst Robbins, 江苏东南大学
+01231666, 7.3, 000021, 2001-11, XML入门, (美)Erik T.Ray, 中国电力出版社
+01231713, 7.6, 000015, 2002-1, SQL技术手册, 黄占涛 译, 中国电力出版社
+01229932, 8.1, 000045, 2003-6, WWW信息体系结构(影印版第2版), Louis Rosenfeld, 清华大学出版社
+01754500, 0.0, 000006, 2006-1, JavaServer Faces交互式网站界面设计, Hans Bergsten, 东南大学出版社
+01931540, 7.6, 000055, 2006-11, PHP &amp; MySQL Web数据库应用开发指南, [澳] Hugh E.Williams / David Lane, 东南大学出版社
+01236944, 8.0, 000273, 2003-8, sed与awk, （美）多尔蒂 / （美）罗宾斯, 机械工业出版社
+01762850, 7.6, 000027, 2005-12-2, Time Management for System Administrators, Thomas A. Limoncelli, O&#39;Reilly Media
+02154713, 8.9, 001072, 2007, 精通正则表达式, Jeffrey E. F. Friedl, 电子工业出版社
+01232057, 7.8, 000197, 2003-1-1, 学习 Vi 编辑器（第六版）, Linda Lamb / Arnold Robbins, 机械工业出版社
+02071057, 7.7, 000168, 2009-3, PHP程序设计, 勒道夫, 电子工业出版社
+02030712, 8.7, 000265, 2007-1, Perl语言入门, Randal L.Schwartz / Tom Phoenix, 东南大学出版社
+01231697, 8.7, 000257, 2001-12, Perl语言编程, [美] Larry Wall / Tom Christiansen / Jon Orwant, 中国电力出版社
+01239501, 7.3, 000242, 2001-4, Python语言入门, [美] Mark Lutz / David Ascber, 中国电力出版社
+01232061, 8.6, 000772, 2003-1-1, JAVASCRIPT权威指南(第四版), David Flanagan, 机械工业出版社
+02253513, 8.2, 000631, 2007, 时间管理, Thomas A.Limoncelli, 东南大学出版社
+01241361, 7.6, 000133, 2003-1-1, 学习bash, Cameron Newham / Bill Rosenblatt, 机械工业出版社
+01230430, 8.6, 000075, 2001-1, 高级Perl编程, [美] Sriram Srinivasan, 中国电力出版社
+02295097, 8.4, 000201, 2007-10-22, Learning Python, 3rd Edition, Mark Lutz, O&#39;Reilly Media, Inc.
+01426816, 8.2, 000129, 2005年6月, 学习Python, Mark Lutz / David Ascher, 东南大学出版社
+01239569, 7.1, 000013, 2004-11, Web安全、隐私和商务, 佳芬科 编, 机械工业出版社
+01231475, 0.0, 000004, 1-1, ASP 技术手册, （美）Weissinger，A., 中国电力出版社
+01240134, 8.2, 000278, 2001-5, CSS权威指南, [美] Eric A. Meyer, 中国电力出版社
+01265680, 7.1, 000031, 2003-5, PHP&amp;MySQL Web数据库应用开发指南, Hugb E. Williams / David Lane, 中国电力出版社
+01232101, 7.5, 000051, 2003-11-1, MySQL权威指南, Randy Jay Yarger, 中国电力出版社
+01171117, 8.1, 000223, 2004-6-1, HTML和XHTML权威指南(第五版), Chuck Musciano / Bill Kennedy, 清华大学出版社
+01230448, 7.9, 000135, 2003-7-1, PHP程序设计, Kevin Tatroe / Rasmus Lerdorf, 中国电力出版社

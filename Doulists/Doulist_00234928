@@ -1,0 +1,114 @@
+doulist, number of books, title
+00234928, 124, Good neuroscience books
+
+ID, rating, votes, date, title, author, publisher
+06058858, 0.0, 000001, 2003-1, Sparse Distributed Memory, Kanerva, Pentti, The MIT Press
+05385555, 0.0, 000001, 2010-7-8, Mathematical Foundations of Neuroscience, G. Bard Ermentrout / David H. Terman, Springer
+04566249, 8.2, 000030, 2009-11-1, Buddha&#39;s Brain, Rick Hanson, New Harbinger Publications
+04288566, 0.0, 000002, 2009-12-9, Single-Channel Recording, Sakmann, Bert; Neher, Erwin;, Springer
+02154791, 0.0, 000005, 2007, Scale-Free Networks, Guido Caldarelli, Oxford University Press, USA (May 25, 2007)
+05914313, 0.0, 000001, 2009-11-10, Computational Models of Spike-Timing Dependent Plasticity, Quan Zou, LAP Lambert Academic Publishing
+04305141, 0.0, 000000, 2004-04, Theory of Cortical Plasticity, Leon N. Cooper / Brian S. Blais / Harel Z. Shouval / Nathan Intrator, World Scientific Publishing Company
+02867594, 0.0, 000000, 2001-11, Confocal and Two-photon Microscopy, Diaspro, Alberto 编, John Wiley &amp; Sons Inc
+03755573, 0.0, 000002, 2008-10-17, Sensation &amp; Perception, Second Edition, Jeremy M. Wolfe / Keith R. Kluender / Dennis M. Levi / Linda M. Bartoshuk / Rachel S. Herz / Roberta L. Klatzky / Susan J. Lederman / Daniel M. Merfeld, Sinauer Associates
+01456010, 0.0, 000001, 2002-11-15, The Handbook of Brain Theory and Neural Networks, Arbib, Michael A. 编, A Bradford Book
+01463122, 0.0, 000002, 2001-1-15, From Neuron to Brain, John G. Nicholls / A. Robert Martin / Bruce G. Wallace / Paul A. Fuchs, Sinauer Associates
+01078470, 8.5, 000163, 2001-12, 机遇与混沌, 大卫・吕埃勒, 上海科技教育出版社
+02859991, 0.0, 000004, 2007-8-5, The Mathematician&#39;s Brain, David Ruelle, Princeton University Press
+01872587, 0.0, 000000, 2001-12-15, The Neuron, Irwin B. Levitan / Leonard K. Kaczmarek, Oxford University Press, USA
+03147605, 0.0, 000002, 4th edt. September 28, 1998, The Physiology of Excitable Cells, David J. Aidley, Cambridge University Press
+04146988, 0.0, 000001, 2003-5-26, Chemical Oscillations, Waves, and Turbulence, Y. Kuramoto, Dover Publications Inc.
+02868054, 0.0, 000007, 1996-5, Neuro-Dynamic Programming, Dimitri P. Bertsekas / John N. Tsitsiklis / John Tsitsiklis, Athena Scientific
+02387870, 0.0, 000000, 1994-11, Models of Information Processing in the Basal Ganglia, Houk, James C./ Davis, Joel L./ Beiser, David G. (EDT), Mit Pr
+02877306, 0.0, 000000, 1998-10-1, Mathematical Physiology, James Keener / James Sneyd, Springer
+03893477, 0.0, 000001, 2008-7-25, Biological Modeling and Simulation, Russell Schwartz, The MIT Press
+02057557, 0.0, 000002, 2006-04-03, System Modeling in Cellular Biology, Szallasi, Zoltan (EDT)/ Stelling, Jorg (EDT)/ Periwal, Vipul (EDT), The MIT Press
+02238411, 9.4, 000030, 1997-11-27, The Conscious Mind, David J. Chalmers, Oxford University Press
+02238412, 9.4, 000046, 2002-7-25, Philosophy of Mind, David J. Chalmers, Oxford University Press
+02503897, 0.0, 000001, 2004-8-20, Neural Engineering, Chris Eliasmith / Charles H. Anderson, A Bradford Book
+03219778, 0.0, 000001, 2003-08-27, Artificial Neural Networks and Neural Information Processing - ICANN/ICONIP 2003, Kaynak, Okyay; Alpaydin, Ethem; Oja, Erkki, Springer
+01484634, 0.0, 000009, 1998-07-06, Neural Networks, Simon Haykin, Prentice Hall
+02496553, 0.0, 000001, 1999-8-5, Spikes, Decisions, and Actions, Hugh R. Wilson, Oxford University Press, USA
+01973407, 9.5, 000062, 2001-1-19, Nonlinear Dynamics And Chaos, Steven H. Strogatz, Westview Press
+02387025, 0.0, 000000, 1994-11-2, Foundations of Cellular Neurophysiology, Daniel Johnston / Samuel Miao-Sin Wu, The MIT Press
+01938420, 0.0, 000004, 1983, Signals and Systems, Alan V.Oppenheim, Prentice Hall International
+02502503, 0.0, 000004, 2003-11-6, The Synaptic Organization of the Brain, Shepherd, Gordon M. 编, Oxford University Press, USA
+02497239, 0.0, 000000, 2004-6, Memory and Brain Dynamics, Basar, Erol, Taylor &amp; Francis
+02702155, 0.0, 000003, 2007-6-28, Large Scale Structure and Dynamics of Complex Networks, Guido Caldarelli / Alessandro Vespignani, World Scientific Publishing Company
+03902634, 0.0, 000000, 1995-01-20, The Mind, The Brain And Complex Adaptive Systems (Santa Fe Institute Studies in the Sciences of Complexity Proceedings), Harold J. Morowitz, Westview Press
+02493135, 0.0, 000000, 2005-3, Modeling in the Neurosciences, Reeke, G. N. (EDT)/ Poznanski, Roman R. (EDT)/ Lindsay, Kenneth A. (EDT)/ Rosenberg, J. R. (EDT)/ Sporns, O. (EDT), CRC Pr I Llc
+02871436, 0.0, 000000, 2002-11, Understanding Understanding, Foerster, Heinz Von, Springer Verlag
+01868282, 9.2, 000058, 1999-8-18, Phantoms in the Brain, V. S. Ramachandran / Sandra Blakeslee, William Morrow Paperbacks
+02507536, 0.0, 000001, 2006-12-22, Bayesian Brain, Doya, Kenji (EDT)/ Ishii, Shin (EDT)/ Pouget, Alexandre (EDT)/ Rao, Rajesh P. N. (EDT), The MIT Press
+02491054, 0.0, 000000, 2000-12, The Amygdala, Aggleton, John P. 编, Oxford Univ Pr
+02505009, 0.0, 000001, 2002-2-15, Probabilistic Models of the Brain, Rajesh P. N. Rao / Bruno A. Olshausen / Michael S. Lewicki, A Bradford Book
+03313182, 0.0, 000002, 2002-2, Computational Neuroscience of Vision, Edmund T Rolls / Gustavo Deco, Oxford University Press
+02485617, 0.0, 000000, 2003-10-20, Computational Neuroscience, Feng, Jianfeng (EDT), Chapman and Hall/CRC
+03224334, 0.0, 000000, 2007-11-28, Computational Neuroscience, Cisek, Paul (EDT)/ Drew, Trevor (EDT)/ Kalaska, John F. (EDT), Elsevier Science
+02387842, 0.0, 000000, 1994-11, The Theoretical Foundation of Dendritic Function, Segev, Idan/ Rinzel, John/ Shepherd, Gordon M. (EDT), Mit Pr
+02487345, 0.0, 000000, 2007-04-26, Consciousness and Cognition, Cohen, Henri (EDT)/ Stemmer, Brigitte (EDT), Academic Press
+01433469, 0.0, 000008, 2004-10-26, The Quantum and the Lotus, Trinh Xuan Thuan / Matthieu Ricard, Three Rivers Press (CA)
+03896685, 0.0, 000004, 2009-4-14, Biocentrism, Robert Lanza / Bob Berman, BenBella Books
+02540249, 0.0, 000003, 2006-4-25, Entangled Minds, Dean I.Radin,, Pocket Books
+03650256, 0.0, 000000, 2009-02-05, Mind in the Balance, B. Alan Wallace, Columbia University Press
+03297206, 0.0, 000004, 2008-6-16, Quantum Enigma, Bruce Rosenblum / Fred Kuttner, Oxford University Press
+02871912, 0.0, 000001, 2007-07-20, Mindful Universe, Henry P. Stapp, Springer
+03055705, 0.0, 000000, 2006-09-29, Contemplative Science, B. Alan Wallace, Columbia University Press
+03674646, 0.0, 000000, 2008-12-23, Embracing Mind, B. Alan Wallace / Brian Hodel, Shambhala
+03120853, 0.0, 000001, 2007-08-06, Hidden Dimensions, B. Alan Wallace, Columbia University Press
+02883460, 0.0, 000000, 2007-1, Neurons in Action 2, Moore, John W./ Stuart, Ann E., Sinauer Associates Inc
+02490829, 0.0, 000004, 2006-1-12, The NEURON Book, Nicholas T. Carnevale / Michael L. Hines, Cambridge University Press
+02498418, 0.0, 000001, 1999-10, Modern Techniques in Neuroscience Research, Windhorst, Uwe (EDT)/ Johansson, Hakan (EDT), Springer Verlag
+02881520, 0.0, 000000, 2007-10, Patch-clamp Methods and Protocols, Molnar, Peter (EDT), Humana Pr Inc
+02490446, 0.0, 000000, 2007-8, Patch-clamp Analysis, Walz, Wolfgang 编, Humana Pr Inc
+02852302, 0.0, 000000, 2005-4, Dynamics of Stochastic Systems, Klyatskin, Valery I., Elsevier Science Ltd
+02345245, 9.4, 000032, 2003-1-28, Synaptic Self, Joseph LeDoux, Penguin Books
+02335173, 0.0, 000003, 2006, Microcircuits, S Grillner / A M Graybiel, The MIT press
+02848659, 0.0, 000009, 1988-1-22, Matter and Consciousness, Paul M. Churchland, The MIT Press
+02847942, 0.0, 000001, 1996-8-1, The Engine of Reason, The Seat of the Soul, Paul M. Churchland, The MIT Press
+02078855, 0.0, 000001, 2002-12-02, Brain-Wise, Patricia Smith Churchland, The MIT Press
+02078854, 0.0, 000004, 1989-09-07, Neurophilosophy, Patricia Smith Churchland, MIT Press
+03545381, 0.0, 000001, 1997-07-10, Weakly Connected Neural Networks, Frank C. Hoppensteadt / Eugene M. Izhikevich, Springer
+02249490, 0.0, 000003, 2002-02-08, Nonlinear Oscillations, Dynamical Systems and Bifurcations of Vector Fields, John Guckenheimer / Philip Holmes, Springer
+02503025, 0.0, 000001, 2005-12-8, 23 Problems in Systems Neuroscience, Van Hemmen, Leo J. / Sejnowski, Terrence J., Oxford University Press
+02873464, 0.0, 000003, 2006-12-27, Signal Processing for Neuroscientists, Wim van Drongelen, Academic Press
+02491415, 0.0, 000003, 2006-10, Introduction to Electrophysiological Methods and Instrumentation, Bretschneider, Franklin / De Weille, Jan R., Academic Pr
+02874764, 0.0, 000003, 1995-5, Single-Channel Recording, Sakmann, Bert/ Neher, Erwin (EDT), Kluwer Academic Pub
+02876197, 0.0, 000005, 2002-12-13, Patch Clamping, Areles Molleman, Wiley
+02497755, 0.0, 000002, 2007, The Thalamus, Jones, Edward G., Cambridge Univ Press
+01899988, 0.0, 000011, 2001-07-01, Ion Channels of Excitable Membranes, Bertil Hille, Sinauer Associates
+01774301, 9.3, 000067, 2005-9-1, Theoretical Neuroscience, Peter Dayan / Laurence F. Abbott, The MIT Press
+01206206, 8.1, 001506, 2007-6-1, 皇帝新脑, 罗杰・彭罗斯 / Roger Penrose, 湖南科学技术出版社
+01030633, 7.7, 000038, 2000-08, 大脑工作原理, （德）哈肯, 上海科技教育出版社
+01899977, 9.4, 000042, 2006-2-7, Neuroscience, Mark  F. Bear / Barry  W. Connors / Michael  A. Paradiso, Lippincott Williams and Wilkins
+01973520, 0.0, 000000, 1998-6-4, Methods in Neuronal Modeling, Koch, Christof (EDT)/ Segev, Idan/ Segev, Idan (EDT), A Bradford Book
+01868283, 9.6, 000013, 2004-1, The Quest for Consciousness, Christof Koch, Roberts &amp; Company Publishers
+01899987, 9.7, 000015, 2006-8-3, Rhythms of the Brain, Gyorgy Buzsaki, Oxford University Press, USA
+01001292, 8.0, 000567, 2004-01, 惊人的假说, （英）弗朗西斯·克里克, 湖南科学技术出版社
+02157346, 8.3, 000395, 2007-6, 笛卡尔的错误, 安东尼奥·R.达马西奥, 教育科学出版社
+01444114, 6.9, 000124, 2005-9, 自由与神经生物学, 约翰·R·塞尔, 中国人民大学出版社
+01886014, 8.2, 000014, 2006-6, 神经信息学——神经系统的理论和模型, 汪云九/国别：, 高等教育出版社
+03687859, 8.5, 000021, 2008-11-6, MATLAB for Neuroscientists, Pascal Wallisch / Michael Lusignan / Marc Benayoun / Tanya I. Baker / Adam Seth Dickey / Nicho Hatsopoulos, Academic Press
+02505382, 0.0, 000004, 2002-11-19, Fundamental Neuroscience, Squire, Larry R. (EDT)/ Bloom, Floyd E. (EDT)/ McConnell, Susan K. (EDT)/ Roberts, James L. (EDT)/ Spitzer, Nicholas C. (EDT)/ Zigmond, Michael J. (ED, Academic Press
+01698910, 0.0, 000000, 1999-09-01, Essentials of Neural Science and Behavior, Eric R. Kandel / James H. Schwartz, McGraw-Hill
+02495651, 0.0, 000005, 2002-9, Fundamentals of Computational Neuroscience, Trappenberg, Thomas, Oxford Univ Pr
+01697556, 9.9, 000093, 2000-1-1, Principles of Neural Science, Eric R. Kandel / James H. Schwartz / Thomas M. Jessell, McGraw-Hill Medical
+01804174, 0.0, 000005, 2006-3-1, 从分子到网络, John H. Byrne / James L. Roberts, 科学出版社
+01582653, 0.0, 000006, 2004-10-28, Biophysics of Computation, Christof Koch, Oxford University Press, USA
+02488813, 0.0, 000004, 2006-11-1, Dynamical Systems in Neuroscience, Eugene M. Izhikevich, The MIT Press
+02502476, 0.0, 000004, 2006-11-2, The Hippocampus Book, Andersen, Per (EDT)/ Morris, Richard (EDT)/ Amaral, David (EDT)/ Bliss, Tim (EDT)/ O&#39;Keefe, John (EDT), Oxford University Press
+02866538, 0.0, 000001, 2003-3, Synapses, Cowan, W. Maxwell/ Sudhof, Thomas C./ Stevens, Charles F., Johns Hopkins Univ Pr
+03723108, 0.0, 000002, 2007-11-10, Dendrites, Greg Stuart, Oxford University Press, USA
+02493764, 0.0, 000003, 2007, An Introduction To Nervous Systems, Greenspan, Ralph J., Cold Spring Harbor Laboratory Press
+01753635, 9.4, 000016, 2004-6, Neuroscience Including Sylvius CD-ROM, George J. Augustine / David Fitzpatrick / Dale Purves, Sinauer Associates
+02621925, 0.0, 000007, 1999-6-25, Spikes, Fred Rieke / David Warland / Rob de Ruyter van Steveninck / William Bialek, The MIT Press
+01280092, 8.8, 000084, 2003-04, 神经生物学, John G. Nicholls / A. Robert Martin / Bruce G. Wallace / Pawl A. Fuchs, 科学出版社
+02841075, 0.0, 000002, 2005-6, Development of the Nervous System, Sanes, Dan H./ Reh, Thomas A./ Harris, William A., Academic Pr
+02865949, 0.0, 000001, 2004-10-5, Principles of Brain Evolution, Georg F. Striedter, Sinauer Associates
+02858309, 0.0, 000001, 2003, Brain Architecture, Swanson, Larry W., Oxford Univ Pr
+03723113, 0.0, 000002, 1991-6-24, Introduction To The Theory Of Neural Computation, Volume I, John A. Hertz, Westview Press
+02691153, 0.0, 000009, 2002-8-15, Spiking Neuron Models, Wulfram Gerstner, Cambridge University Press
+03723119, 0.0, 000000, 1991-2-22, Corticonics, M. Abeles, Cambridge University Press
+02879434, 0.0, 000000, 2006-4, Introduction to Theoretical Neurobiology, Tuckwell, Henry C., Cambridge Univ Pr
+02848660, 0.0, 000004, 1992-6-12, The Computational Brain, Patricia Churchland / Terrence J. Sejnowski, The MIT Press
+01773585, 9.5, 000208, 2000-03-30, Godel, Escher, Bach, Douglas R Hofstadter, Penguin

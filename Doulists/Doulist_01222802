@@ -1,0 +1,47 @@
+doulist, number of books, title
+01222802, 044, Ruby与Rails开发书单
+
+ID, rating, votes, date, title, author, publisher
+07056800, 9.4, 000503, 2012-1-10, Ruby元编程, [意] Paolo Perrotta, 华中科技大学出版社
+06429591, 7.8, 000041, 2011-12-6, Sinatra, Alan Harris / Konstantin Haase, O&#39;Reilly Media
+24298701, 7.4, 000218, 2013-6, 理解Unix进程, Jesse Storimer, 人民邮电出版社
+03151766, 7.0, 000023, 2008, SQL HACKS, Andrew Cumming / Gordon Russell, 清华大学出版社
+03045359, 6.9, 000025, 2008-3, MySQL Cookbook（中文版）, 迪布瓦, 电子工业出版社
+04812038, 0.0, 000008, 2010-11-19, Rails AntiPatterns, Chad Pytel / Tammer Saleh, Addison-Wesley Professional
+04264181, 0.0, 000004, 2009-11-17, Security on Rails, Ben Poweski / David Raphael, Pragmatic Bookshelf
+03898712, 0.0, 000005, October 2008, Enterprise Rails, Dan Chak, O&#39;Reilly Media
+03429038, 0.0, 000000, 2008-11-17, Enterprise Recipes with Ruby and Rails, Maik Schmidt, Pragmatic Bookshelf
+03603693, 7.9, 000075, 2010-04-30, The RSpec Book, David Chelimsky / Dave Astels / Bryan Helmkamp / Dan North / Zach Dennis / Aslak Hellesoy, Pragmatic Bookshelf
+04722946, 0.0, 000001, 2009-11-05, Distributed Programming with Ruby, Mark Bates, Addison Wesley
+03351248, 7.6, 000017, 2008-12, Ruby系统管理实战, Andre Ben Hamou, 机械工业出版社
+03351348, 7.6, 000017, 2009-1, Rails高级编程, 艾丁格, 机械工业出版社
+03338834, 8.1, 000087, 2009-1, Ruby设计模式, Russ Olsen, 机械工业出版社
+01760600, 7.5, 000015, 2006-3-23, Best of Ruby Quiz, James Edward, II Gray, Pragmatic Bookshelf
+03793761, 8.4, 000042, 2009-6-26, Ruby Best Practices, Gregory T Brown, O&#39;Reilly Media
+04821286, 8.5, 000073, 2010, 重构, Jay Fields / Shane Harvie / Martin Fowler, 机械工业出版社
+06047837, 8.3, 000012, 2011-4-15, Crafting Rails Applications, Jose Valim, Pragmatic Bookshelf
+06019727, 0.0, 000024, 2012-6-15, Clever Algorithms, Jason Brownlee, lulu.com
+04086938, 9.4, 000156, 2010-2-22, Metaprogramming Ruby, Paolo Perrotta, Pragmatic Bookshelf
+04915895, 8.5, 000032, 2010年07月27日, 松本行弘的程式世界, 松本行弘, 博碩
+01770051, 8.3, 000054, 2006-7-29, Ruby Cookbook, Lucas Carlson / Leonard Richardson, O&#39;Reilly Media
+02337297, 8.8, 000156, 2008, The Ruby Programming Language, David Flanagan / Yukihiro Matsumoto, O&#39;Reilly Media, Inc.
+03035267, 8.3, 000065, 2009-4-28, Programming Ruby 1.9, Dave Thomas / Chad Fowler / Andy Hunt, Pragmatic Bookshelf
+06799469, 7.8, 000015, 2012-4-10, Rails Recipes, Chad Fowler, Pragmatic Bookshelf
+06052175, 9.2, 000059, 2011-2, Eloquent Ruby, Russ Olsen, Addison-Wesley
+01982022, 8.0, 000055, 2007-01-23, Everyday Scripting with Ruby, Brian Marick, Pragmatic Bookshelf
+05263109, 9.3, 000121, 2010-12-16, Ruby on Rails 3 Tutorial, Michael Hartl, Addison-Wesley Professional
+03836123, 0.0, 000007, 2009-07-20, Beginning Ruby,Second Edition, Peter Cooper, Apress
+04241826, 8.8, 000421, 2010年1月, 高性能MySQL（第二版）, Baron Schwartz / Peter Zaitsev / Vadim Tkachenko / Jeremy D.Zawodny / Arjen Lent / Derek J.Ballin, 电子工业出版社
+03329887, 8.7, 000260, 2009-1, Ruby编程语言, David Flanagan / 松本行弘, 电子工业出版社
+06310125, 7.9, 000039, 2011-9-29, CoffeeScript, Trevor Burnham, Pragmatic Bookshelf
+03851800, 7.2, 000012, 2009-7, Ruby程序设计268技, 青木峰郎 / 后藤裕藏 / 高桥征义, 电子工业出版社
+04739317, 8.8, 000053, 2010-12-20, The Rails 3 Way, Obie Fernandez, Addison-Wesley Professional
+03335184, 7.5, 000022, 2009-6-4, The Well-Grounded Rubyist, David A. Black, Manning Publications
+03567853, 9.1, 000957, 2009-11-18, Getting Real, Jason Fried / Heinemeier David Hansson / Matthew Linderman, 37signals
+05320866, 8.3, 007133, 2010-10, 重来, [美] 贾森·弗里德 / [丹] 戴维·海涅迈尔·汉森, 中信出版社
+04888652, 8.1, 000072, 2010-7, Web开发敏捷之道, Sam Ruby / Dave Thomas / David Heinemeier Hansson, 电子工业出版社
+02032343, 8.4, 000427, 2007-3, Programming Ruby中文版, 托马斯, 电子工业出版社
+04213190, 7.0, 000029, 2010-1, Rails学习手册, （美）顿姆比尔 / （美）拉瑞特, 机械工业出版社
+03420144, 9.1, 001114, 2009-8-27, Pro Git, Scott Chacon, Apress
+03644726, 7.4, 000083, 2009-4, Ruby Programming, 高桥征义 / 后藤裕藏, 电子工业出版社
+05290469, 6.8, 000044, 2010-10, jQuery攻略, B.M.Harwani, 人民出电出版社

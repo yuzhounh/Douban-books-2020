@@ -1,0 +1,90 @@
+doulist, number of books, title
+00883483, 087, 耶鲁大学部分公开课教科书与参考书目录
+
+ID, rating, votes, date, title, author, publisher
+26278816, 8.9, 000792, 2015-1, 耶鲁大学公开课 : 政治哲学, [美]史蒂芬·B·斯密什(Steven B. Smith), 北京联合出版公司·后浪出版公司
+02170983, 9.1, 001948, 2007-6, 苏格拉底的申辩, [古希腊] 柏拉图, 华夏出版社
+01053009, 9.3, 001651, 1999-05, 游叙弗伦 苏格拉底的申辩 克力同, 柏拉图, 商务印书馆
+03677873, 0.0, 000010, 2008-5-27, The Republic, Plato, Yale University Press
+03523852, 8.6, 000122, 1986年8月第一版 1997年2月北京第6次印刷, 理想国, [古希腊]柏拉图, 商务印书馆
+02836735, 9.5, 000048, 2000-11-15, Politics, Aristotle, Dover Publications
+01160320, 8.9, 000996, 1997-2, 政治学, [古希腊] 亚里士多德, 商务印书馆
+01428600, 9.3, 000199, 1998-09-01, The Prince, Niccolo Machiavelli, University Of Chicago Press
+01060774, 8.7, 014586, 1985-7, 君主论, [意]尼科洛·马基雅维里, 商务印书馆
+01370982, 8.9, 000048, 1996-8-28, Leviathan, Thomas Hobbes (Author) / Richard Tuck (Editor), Cambridge University Press
+01468426, 8.7, 003629, 1985-9, 利维坦, [英] 霍布斯, 商务印书馆
+01370284, 8.0, 000047, 2008-09-19, The Social Contract (Classics), Jean Jacque Rousseau, Penguin Books
+01277981, 8.8, 013587, 2003-2-1, 社会契约论, 卢梭, 商务印书馆
+01466882, 9.2, 000309, 1998-6-16, On Liberty, John Stuart Mill, Penguin
+06397522, 9.3, 003785, 2011-9, 论自由, [英] 约翰·穆勒, 广西师范大学出版社
+04171967, 9.1, 000011, 2008-02-20, The Seventh Letter (Forgotten Books), Plato Plato / Benjamin Jowett, Forgotten Books
+01107650, 7.6, 000149, 2003-4-1, 柏拉图全集（第四卷）, [古希腊]柏拉图, 人民出版社
+01988930, 9.5, 000103, 1989-5-1, Plato Symposium, Plato, Hackett Publishing Co
+01027280, 9.2, 001389, 2003-08, 柏拉图的《会饮》, 柏拉图, 华夏出版社
+02476273, 9.6, 000021, 2000-03, Clouds, Aristophanes, Hackett Publishing Company
+01802134, 8.6, 000297, 2010-9, 云 马蜂, 阿里斯托芬, 上海人民出版社
+02042842, 9.8, 000034, 1988-3-15, The Laws of Plato, Plato, University Of Chicago Press
+01214830, 8.0, 000199, 2003-4, 柏拉图全集（第三卷）, 柏拉图, 人民出版社
+03033735, 0.0, 000002, 2007, 柏拉圖《法篇》, 柏拉圖, 左岸文化
+03573054, 0.0, 000002, 2002-5-24, The Open Society and its Enemies, Karl Popper, Routledge
+01015748, 8.8, 002450, 1999-8, 开放社会及其敌人（全二卷）, [英] 卡尔·波普尔, 中国社会科学出版社
+03893876, 9.4, 000024, 1999-2-26, Strategies and Games, Prajit K. Dutta, The MIT Press
+01320278, 8.5, 000100, 2005-5, 策略与博弈, 普拉伊特・K.杜塔 / 施锡铨, 上海财经大学出版社
+01480912, 8.9, 000015, 2002-1, STRATEGY An Introduction to Game Theory, Joel Watson, W. W. Norton &amp; Company
+05405599, 7.9, 000055, 2010-11-1, 策略, Joel Watson[乔尔 沃森], 格致出版社，上海三联书店，上海人民出版社
+01666052, 8.8, 000116, 1993-4-17, Thinking Strategically, Avinash K. Dixit / Barry J. Nalebuff, W. W. Norton &amp; Company
+01084435, 8.4, 002177, 2003年7月第3版, 策略思维, 阿维纳什・K・迪克西特 / 巴里・J・奈尔伯夫, 中国人民大学出版社
+01773276, 8.4, 000035, 1999-8-26, Finance, Zvi Bodie / Robert C Merton, Prentice Hall
+01017213, 8.4, 000849, 2000-10, 金融学, (美)博迪 / 莫顿, 中国人民大学出版社
+26936326, 0.0, 000000, 1997, An Introduction to Derivatives, Don M. Chance/唐 M.钱斯, The Dryden Press,Harcourt Brace College Publishers
+01085625, 0.0, 000013, 2004-5, 衍生金融工具与风险管理, 唐・M・钱斯, 中信出版社
+04130410, 8.7, 000101, 2011-1-6, Probability and Statistics, Morris H. DeGroot / Mark J. Schervish, Pearson
+02013501, 7.9, 000035, 2007年03月, 概率统计, 德格鲁特, 人民邮电出版社
+04116564, 8.4, 000014, 2010-02-23, Modern Portfolio Theory and Investment Analysis, Edwin J. Elton / Martin J. Gruber / Stephen J. Brown / William N. Goetzmann, John Wiley &amp; Sons Ltd
+01706274, 9.0, 000048, 2006-1, 现代投资组合理论和投资分析, [美]埃德温·J·埃尔顿等, 人民大学
+01840993, 0.0, 000005, 2005-12-21, The Handbook of Mortgage-Backed Securities, Frank  Fabozzi, McGraw-Hill
+01189887, 0.0, 000002, 2004-9, 房产抵押贷款证券手册, 弗兰克·J.法博齐 编, 上海人民出版社
+01693747, 8.4, 000026, 2005-04-15, The Handbook of Fixed Income Securities, Frank Fabozzi, McGraw-Hill
+01489146, 8.8, 000083, 2005-11, 固定收益证券手册, 弗兰克·J·法博齐, 中国人民大学出版社
+25853509, 8.8, 000023, 2014-2-1, 固定收益证券手册（上下册）, 弗兰克·J·法博齐, 中国人民大学出版社
+01422217, 9.2, 000357, 10 June, 2005, Options, Futures and Other Derivatives (6th Edition), John C. Hull, Prentice Hall
+03889944, 9.2, 000085, 2009-7, 期权、期货及其他衍生产品, 约翰·赫尔, 人民邮电出版社
+04112740, 0.0, 000001, 1999-11-5, Derivative Securities, Robert Jarrow / Stuart Turnbull, South-Western College Pub
+01794899, 8.8, 000082, 1997-7-3, Investment Science, David G. Luenberger, Oxford University Press
+01279951, 9.4, 000039, 2005-1, 投资科学, 卢恩伯格, 人民大学
+01763215, 8.2, 000124, 2007-01-22, A Random Walk Down Wall Street, Burton G. Malkiel, W. W. Norton
+03043970, 8.4, 001997, 2008-4, 漫步华尔街, 麦基尔, 机械工业出版社
+01650772, 0.0, 000010, 1997-7-7, Introduction to Mathematical Finance, Stanley R. Pliska, Wiley
+01187104, 8.6, 000132, 2005, Corporate Finance 7th Edition + Student CD-ROM + Standard &amp; Poor&#39;s card + Ethics in Finance PowerWeb, Stephen A. Ross, McGraw-Hill Book Co
+01082512, 8.8, 001373, 2007-1, 公司理财, 斯蒂芬A.罗斯, 机械工业出版社
+01971516, 0.0, 000004, 1998-10-30, Investments, William Sharpe / Gordon J. Alexander / Jeffrey W Bailey, Prentice Hall
+01060750, 8.4, 000097, 1998-08, 投资学（第五版·上）, [美] 威廉·F.夏普(William F.Sharpe), 中国人民大学出版社
+01031815, 9.4, 000028, 1998-09, 投资学（第五版）（下册）, （美）威廉・F・夏普 / 等, 中国人民大学出版社
+01958124, 0.0, 000005, 2000-5-15, Pioneering Portfolio Management, David F. Swensen, Free Press
+01511148, 9.1, 000096, 2002-4, 机构投资与基金管理的创新, 大卫·史文森, 中国人民大学出版社
+10766171, 0.0, 000000, 1996-1-5, Quantitative Analysis for Investment Management, Robert A. Taggart, Pearson
+25761563, 0.0, 000000, 1997-7, Money, Credit and Capital, James Tobin / Stephen Golub, McGraw-Hill/Irwin
+26299676, 0.0, 000005, 2015-1, 货币、信贷与资本, [美]詹姆斯·托宾 （James Tobin） / [美]斯蒂芬·S·戈卢布 （Stephen S.Golub）, 中国人民大学出版社
+03998477, 9.3, 000076, 2009-2-1, Foundations of Financial Markets and Institutions, Frank J. Fabozzi / Franco P. Modigliani / Frank J. Jones, Prentice Hall
+05271687, 8.5, 000215, 2010-9, 金融市场与金融机构基础, 弗兰克·J·法博齐 / 弗兰科·莫迪利亚尼 / 弗兰克·J·琼斯, 机械工业出版社
+02792822, 7.8, 000062, 2008-1-1, Stocks for the Long Run, 4th Edition, Jeremy J. Siegel, McGraw-Hill Professional
+03351179, 8.0, 000356, 2009-1, 股市长线法宝, 杰里米 J. 西格尔, 机械工业出版社
+01347691, 8.2, 000043, 2005-2-22, Irrational Exuberance, Robert J. Shiller, Princeton University Press
+03000660, 7.8, 000994, 2008-1, 非理性繁荣(第二版), 罗伯特·希勒, 中国人民大学出版社
+05327635, 0.0, 000000, 2010-3-8, What Social Classes Owe to Each Other, William Graham Sumner, Nabu Press
+02056234, 7.7, 000035, 1996-10-3, Living High and Letting Die, Peter Unger, Oxford University Press
+01347705, 8.5, 000017, 2004-7-26, The New Financial Order, Robert J. Shiller, Princeton University Press
+01084472, 7.7, 000060, 2004-2, 金融新秩序, 罗伯特·J·希勒, 中国人民大学出版社
+03349595, 8.0, 000070, 2008-3-10, The black swan, Nissim Nicholas Taleb, Random House USA
+03025921, 7.7, 008382, 2008-5, 黑天鹅, [美] 纳西姆·尼古拉斯·塔勒布, 中信出版社
+02778012, 0.0, 000008, 2002-1-1, Triumph of the Optimists, Elroy Dimson / Paul Marsh / Mike Staunton, Princeton University Press
+01700875, 7.3, 000047, 2005-6, 投资收益百年史, Elroy Dimson / Paul Marsh / Mike Staunton, 中国财政经济出版社
+03788656, 8.2, 000099, 2008-1-1, Principles of Corporate Finance, Richard A. Brealey, McGraw-Hill
+01957468, 8.4, 000104, 2007-1, 公司财务原理, 方曙红, 机械工业
+02774954, 0.0, 000002, 2002-9-8, Searching for a Corporate Savior, Rakesh Khurana, Princeton University Press
+02432179, 0.0, 000007, 1995-3-15, Other People&#39;s Money and How Bankers Use It, Urofsky, Melvin I./ Urofsky, Melvin I. (EDT)/ Brandeis, Louis D., Bedford Books
+03405179, 7.6, 000046, 2009-1, 别人的钱, 路易斯·D·布兰代斯, 法律出版社
+03101510, 8.8, 000035, 2009-1-6, Pioneering Portfolio Management, David F. Swensen, Free Press
+04748753, 8.8, 000476, 2010-3-1, 机构投资的创新之路, 大卫·F·史文森, 中国人民大学出版社
+01899252, 8.2, 000035, 2005-08-02, Unconventional Success, David F. Swensen, Free Press
+03725211, 7.7, 000282, 2009-4-1, 不落俗套的成功, 大卫·F·斯文森, 中国青年出版社
