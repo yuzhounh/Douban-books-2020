@@ -3,12 +3,9 @@ Copyright (C) 2020-2025 Jing Wang
 
 ### Introduction
 
-This project is based on [:octocat: Douban-books-2020](https://github.com/yuzhounh/Douban-books-2020).
-
-It converts the tables from the original project into CSV files with UTF-8 with BOM encoding, making them easy to open and view directly in WPS or Microsoft Office.
+This project converts the tables from the original project into CSV files with UTF-8 with BOM encoding, making them easy to open and view directly in WPS or Microsoft Office.
 
 The conversion code can be found in the [📁 Code](Code) folder.
-
 
 ### Books
 This section contains various book datasets and collections organized by ratings, votes, doulists, and tags.
