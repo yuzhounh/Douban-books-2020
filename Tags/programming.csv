@@ -1,0 +1,689 @@
+﻿ID,Rating,Votes,Title
+06021440,8.7,18586,黑客与画家
+01139336,9.4,4549,C程序设计语言
+01885170,9.3,4993,算法导论（原书第2版）
+10750155,8.7,10768,数学之美
+05333562,9.7,2546,深入理解计算机系统（原书第2版）
+01477390,9.3,3857,代码大全（第2版）
+01767741,9.2,4300,C++ Primer 中文版（第 4 版）
+01230413,9.5,2761,深入理解计算机系统
+02130190,9.1,3817,Java编程思想 （第4版）
+01148282,9.5,2359,计算机程序的构造和解释(原书第2版)
+04822685,9.2,3285,编码
+01788421,9.4,2275,UNIX环境高级编程
+04889838,9.1,3045,鸟哥的Linux私房菜
+10546125,9.3,2380,JavaScript高级程序设计（第3版）
+25708312,9.4,1757,C++ Primer 中文版（第 5 版）
+01088054,9.2,2116,TCP/IP详解 卷1：协议
+26912767,9.8,1078,深入理解计算机系统（原书第3版）
+01236999,9.6,1305,The  C Programming Language
+02377310,9.2,1968,C专家编程
+03227098,9.1,2088,编程珠玑
+10590856,9.0,2143,统计学习方法
+01467587,9.0,2130,UNIX编程艺术
+01240002,9.1,1861,C Primer Plus
+03590768,9.1,1853,JavaScript语言精粹
+01229923,9.0,2071,重构
+01842426,9.5,1164,Effective C++
+01024570,9.3,1384,编码的奥秘
+04262627,9.0,1875,重构
+03652388,8.8,2375,程序员的自我修养
+03037562,9.3,1236,汇编语言（第2版）
+11505704,9.1,1520,The Ph.D. Grind
+01500149,9.5,963,UNIX网络编程
+01152971,9.1,1454,DOOM启世录
+04163938,8.7,2321,软件随想录
+01091086,9.1,1448,深度探索C++对象模型
+01152912,9.5,919,算法导论
+03004255,8.4,3183,编程之美
+03288908,9.0,1479,集体智慧编程
+01152111,8.6,2297,程序员修炼之道
+20432061,9.3,1030,算法导论（原书第3版）
+01140457,9.0,1417,敏捷软件开发
+03889178,8.7,1988,Rework
+26197294,9.7,689,Designing Data-Intensive Applications
+04326057,8.8,1616,Excel图表之道
+10484692,9.0,1262,Java并发编程实战
+01453373,9.3,912,Effective C++
+03420144,9.1,1114,Pro Git
+01451622,9.6,674,Structure and Interpretation of Computer Programs - 2nd Edition (MIT)
+02778632,8.9,1362,C陷阱与缺陷
+05387403,9.5,702,Effective C++
+06038371,8.7,1624,JavaScript DOM编程艺术 （第2版）
+26351021,9.3,824,你不知道的JavaScript（上卷）
+04199741,8.6,1704,代码整洁之道
+27028517,9.4,711,流畅的Python
+03567853,9.1,957,Getting Real
+03296317,9.1,922,编译原理
+10432347,9.3,734,算法（英文版·第4版）
+23008813,9.3,725,高性能MySQL
+01488876,9.1,876,深入浅出设计模式（影印版）
+10746113,8.6,1524,HTTP权威指南
+01110934,8.7,1335,STL源码剖析
+05372651,8.4,1880,程序员的思维修炼
+02000732,8.7,1261,Head First Java（第二版·中文版）
+26979890,8.4,1801,算法图解
+30329536,9.7,455,数据密集型应用系统设计
+02230248,8.6,1350,人月神话
+25863515,8.1,2485,图解HTTP
+25779298,8.6,1305,利用Python进行数据分析
+03924175,8.6,1301,构建高性能Web站点
+24250054,8.5,1457,SQL必知必会
+01921890,8.7,1150,JavaScript DOM编程艺术
+03904676,9.5,509,Introduction to Algorithms
+01099889,8.9,896,C++程序设计语言（特别版）
+04886879,9.4,515,JavaScript高级程序设计:第2版
+01391740,8.5,1311,逻辑的引擎
+26836700,9.0,741,Python编程快速上手
+07056800,9.4,503,Ruby元编程
+20260928,9.3,542,编码
+02130743,9.1,641,离散数学及其应用（原书第5版）
+01632977,9.3,527,The Little Schemer - 4th Edition
+01400656,9.1,632,Head First Design Patterns
+01130500,9.4,476,计算机程序设计艺术（第1卷）
+02228378,8.9,738,JavaScript权威指南
+01179807,8.7,898,计算机网络
+25768396,8.6,995,深入浅出Node.js
+01494026,9.5,388,Code
+03146174,9.0,612,JAVA核心技术（卷1）
+02994925,9.1,535,JavaScript
+19973015,9.7,315,Operating Systems
+25900156,8.5,984,Redis设计与实现
+10549733,8.8,695,JavaScript权威指南(第6版)
+04866934,8.0,1790,Python基础教程（第2版）
+04141733,8.9,624,Linux C编程一站式学习
+04279678,9.3,420,C语言程序设计
+01996256,9.4,382,Algorithms
+03235659,9.2,451,Windows核心编程(第5版)
+26278021,9.6,318,Fluent Python
+01474824,9.0,537,Thinking in Java
+01173548,9.1,479,程序设计实践
+04031906,8.9,569,冒号课堂
+01219329,9.2,425,Unix/Linux编程实践教程
+01215178,9.3,385,汇编语言
+01094852,8.9,543,深入浅出MFC （第二版）
+01951158,9.3,374,代码大全
+25869486,9.2,405,Vim实用技巧
+04164024,8.2,1141,高效程序员的45个习惯
+06806862,9.3,363,The Linux Command Line
+04006425,7.8,1924,我是一只IT小小鸟
+25723064,7.9,1640,大型网站技术架构
+01092099,9.2,385,UNIX环境高级编程
+11614538,8.7,622,程序员的职业素养
+25881855,8.4,819,大教堂与集市
+01101158,8.6,652,Java编程思想(第2版)
+01229959,9.0,431,The Art of UNIX Programming
+01102235,8.4,797,机器学习
+03032825,8.9,461,Clean Code
+20471211,8.8,486,Linux多线程服务端编程
+03948354,8.2,916,Python学习手册
+06966465,8.3,774,剑指Offer
+01319751,8.5,618,C++Primer Plus
+05908727,9.2,315,More Effective C++（中文版）
+26337545,9.3,289,The Go Programming Language
+02696119,9.3,282,Effective Java: Second Edition
+05355285,8.5,596,编程人生
+03897837,9.1,329,Spring揭秘
+03112503,7.7,1555,Python核心编程（第二版）
+30175598,9.0,356,Python 3网络爬虫开发实战
+25809330,9.4,253,Linux/UNIX系统编程手册
+01096216,8.8,421,C++语言的设计和演化
+01436745,9.2,288,Design Patterns
+02287506,8.7,452,深入理解LINUX内核(第三版)
+03260311,8.8,407,Erlang 程序设计
+03735649,8.7,428,Orange&#39;S:一个操作系统的实现
+02148132,8.9,344,JAVA并发编程实践
+05345682,8.1,791,Maven实战
+24335672,7.3,2316,淘宝技术这十年
+01417047,8.9,333,The Pragmatic Programmer
+01230559,8.7,400,企业应用架构模式
+01441780,8.2,632,游戏之旅
+24749842,9.0,284,挑战程序设计竞赛
+26727997,9.4,203,Neural Networks and Deep Learning
+01232071,8.7,365,如何求解问题
+26757974,9.4,200,R for Data Science
+04292217,9.4,199,The Linux Programming Interface
+01852515,9.3,210,计算理论导引
+01415354,9.3,209,C++ Primer
+04843567,8.9,291,深入Linux内核架构
+04924164,8.4,466,软件开发者路线图
+02269648,8.6,380,正则表达式必知必会
+04828875,8.6,379,Python Cookbook
+01459728,9.1,238,Thinking in C++
+01390010,9.8,139,Concrete Mathematics
+26709315,9.0,254,Effective Python
+03142280,7.8,887,梦断代码
+02123092,9.1,228,Web开发敏捷之道
+01432042,9.0,246,Code Complete
+03022779,8.5,387,ppk谈JavaScript
+02044818,9.1,225,操作系统设计与实现（上册）
+01484451,9.5,165,Programming Pearls
+02032343,8.4,427,Programming Ruby中文版
+25803388,9.0,244,Haskell趣学指南
+01400419,8.7,307,3D数学基础
+01230036,8.2,507,测试驱动开发
+01451172,8.5,371,Just for Fun
+25902102,8.8,279,算法竞赛入门经典（第2版）
+03155710,9.0,232,算法概论
+25829244,8.7,298,Effective Objective-C 2.0
+01390650,8.6,323,现代操作系统
+01419359,9.1,204,Refactoring
+05377669,8.1,527,数据挖掘导论
+11941213,8.4,381,Learn Python the Hard Way
+06585090,9.1,202,HTML and CSS
+01459281,9.4,160,The Practice of Programming
+04118577,9.4,160,UNIX网络编程 卷2
+03360866,8.7,274,JAVA核心技术卷2
+01966719,8.7,273,Founders at Work
+01998341,9.1,193,计算机系统要素
+01231481,8.7,270,COM本质论
+27665114,8.7,270,Kafka权威指南
+06126331,9.0,207,R in Action
+10561367,7.9,613,Head First Python（中文版）
+02030712,8.7,265,Perl语言入门
+01929984,8.2,427,数据库系统概念
+26264642,7.8,659,&#34;笨办法&#34;学Python
+02061172,9.2,165,Java编程思想
+02043236,9.0,192,Processing
+05442971,8.6,268,The Art of Readable Code
+06049132,7.9,549,Python学习手册（第4版）
+04831448,8.3,352,Linux程序设计
+03143256,9.0,186,Learning Processing
+03246499,8.0,479,疯狂Java讲义
+03088353,8.8,217,软件调试
+21372237,8.3,340,极客与团队
+10548379,8.4,308,数据库系统概念
+02120492,8.3,337,统计建模与R软件
+06526452,8.0,462,Git权威指南
+26586598,8.7,227,性能之巅
+01835449,8.1,399,VC++深入详解
+01473329,8.5,266,Java解惑
+35006892,9.4,128,程序员修炼之道(第2版)
+02124377,8.1,385,SQL必知必会（第3版）
+01247361,9.7,101,计算机程序设计艺术(第3卷)-排序和查找(英文影印版)
+11530329,8.3,307,30天自制操作系统
+01792387,8.1,376,UML和模式应用
+01418402,9.5,114,The Art of Computer Programming
+03012828,8.4,273,JAVASCRIPT语言精髓与编程实践
+01246129,9.1,148,Effective Java
+03224524,7.8,503,代码之美
+01679623,7.0,1501,C程序设计
+10789820,7.5,722,Node.js开发指南
+01764900,8.0,393,Ajax实战
+01440226,8.6,218,HTTP
+20491078,9.3,124,Python Cookbook
+01756533,9.6,99,Unix Network Programming
+01035710,9.0,151,UNIX操作系统设计
+03406939,9.1,138,编程精粹
+03220004,8.3,271,Hadoop: The Definitive Guide
+10779534,8.4,246,Think Python
+01231584,8.6,201,Linux内核源代码情景分析（上册）
+02248759,8.2,289,修改代码的艺术
+03173123,8.0,354,C++GUI Qt4编程
+04848587,7.8,439,分布式Java应用
+06758780,8.0,349,大规模Web服务开发技术
+03291901,8.8,165,Linux Kernel Development
+10482195,8.4,233,编程语言实现模式
+01244943,8.9,152,More Exceptional C++中文版
+04746407,8.6,194,深入PHP
+26352658,9.1,130,JavaScript面向对象精要
+01809089,9.3,112,人工智能
+03134515,8.5,210,Real World Haskell
+10760444,8.4,227,Python for Data Analysis
+01494471,9.1,124,The Mythical Man Month and Other Essays on Software Engineering
+06730363,9.3,106,人工智能
+04130141,8.7,165,C++ Concurrency in Action
+30218046,8.6,179,A Philosophy of Software Design
+30386804,8.4,213,Redis 深度历险：核心原理与应用实践
+26266378,9.6,86,Game Programming Patterns
+30310340,8.8,151,Flask Web开发实战
+01445661,8.4,212,软件测试的艺术
+01231702,8.3,232,Win32多线程程序设计
+03039216,8.0,309,构建可扩展的Web站点
+03628911,8.5,191,Dive Into Python 3
+03332698,9.1,118,JavaScript
+07053134,9.4,95,The C++ Programming Language
+03998727,9.3,101,Effective Java
+26284938,9.0,124,Automate the Boring Stuff with Python
+10813224,9.1,115,Ruby on Rails Tutorial
+26915970,8.8,143,Clean Architecture
+23779374,8.9,131,明解C语言
+01854431,9.5,85,Java Persistence with Hibernate
+26268555,8.3,213,程序员思维修炼
+01798896,8.6,162,The Definitive Guide to Django
+01493443,9.0,118,Linux Device Drivers
+01138919,8.8,136,C程序设计语言
+05442024,9.1,108,代码整洁之道
+01236944,8.0,273,sed与awk
+02280545,8.8,133,Accelerated C++中文版
+03072383,9.0,114,The Algorithm Design Manual
+05363753,8.0,268,Learn Python The Hard Way
+05402708,7.7,369,HTML5高级程序设计
+25713498,8.2,215,迷茫的旅行商
+01057170,8.1,236,C++编程思想
+01094797,8.5,162,C++编程思想
+01456961,8.8,127,C++ Primer Plus
+04886882,9.3,88,UNIX网络编程 : 第2版. 第2卷， 进程间通信(中文版)
+05336893,8.2,206,Python自然语言处理
+01119351,9.1,99,UNIX网络编程第2卷
+30335935,8.4,170,从零开始学架构
+02046281,7.5,425,大道至简
+01737661,9.0,105,算法设计
+01834459,9.0,105,深入理解LINUX网络内幕
+01229924,8.7,130,测试驱动开发
+06050104,9.2,89,Programming in Scala
+01106301,9.0,101,敏捷软件开发（影印版）
+01461786,8.7,125,DOM Scripting
+01140257,8.9,106,Java编程思想
+04260618,7.5,391,设计模式之禅
+01144007,8.3,171,Java数据结构和算法
+26832468,8.1,205,Go语言学习笔记
+02372267,8.3,170,Head First JavaScript
+21317828,8.3,170,征服C指针
+01315047,7.7,306,深入浅出Hibernate
+02173399,9.3,79,Numerical Recipes 3rd Edition
+26360716,9.1,90,The Effective Engineer
+26337939,7.7,297,七周七并发模型
+01962588,7.7,291,入侵的艺术
+01917831,8.5,136,Agile Java 中文版
+01095883,9.0,91,C 程序设计语言(第二版)
+04722708,7.9,228,系统程序员成长计划
+04719159,8.7,113,Windows内核原理与实现
+01395496,9.3,74,Joel on Software
+01787855,9.3,74,Programming From The Ground Up
+03788437,9.1,84,琢石成器
+01793234,8.6,120,Programming in Lua
+25892709,8.7,111,Python for Informatics
+25910544,7.4,381,编写高质量代码：改善Python程序的91个建议
+26966433,8.7,109,零基础入门学习Python
+01208843,7.1,557,C语言程序设计
+02302961,9.3,71,Windows via C/C++
+01761910,9.1,80,Types and Programming Languages
+01792611,9.1,79,Accelerated C++
+03136252,9.2,74,Essentials of Programming Languages
+27013197,9.1,77,The Rust Programming Language
+26801374,7.9,201,Python核心编程（第3版）
+01766670,9.3,67,Instructor&#39;s Manual t/a Structure and Interpretation of Computer Programs
+27667375,8.2,150,Python基础教程（第3版）
+24316255,7.6,269,Go Web编程
+01836464,8.5,115,MATLAB数值计算
+02585403,9.6,55,C Programming
+01786365,8.7,98,The C++ Standard Library
+05362860,9.1,74,Java解惑
+03208666,7.8,212,Spring in Action（中文版）
+20488750,9.2,69,Functional Programming in Scala
+01099376,8.1,158,解析极限编程
+03052723,9.1,73,Agile Web Development with Rails
+01441161,8.7,96,Core Java
+01464826,9.0,77,Thinking in C++
+11540736,8.7,95,The Node Beginner Book
+10486432,8.3,127,Learn Python the Hard Way
+01229954,8.9,80,Patterns of Enterprise Application Architecture
+26284937,8.8,85,Python Crash Course
+01229949,8.9,79,Artificial Intelligence
+04915945,8.9,79,Python Algorithms
+01105697,8.5,104,UNIX超级工具 （第二版，上下卷）
+07175280,7.9,174,Python科学计算
+26675256,8.8,83,Site Reliability Engineering
+04813786,7.7,210,版本控制之道
+26821357,8.2,131,垃圾回收的算法与实现
+25814739,8.4,111,Flask Web Development
+14267904,8.1,142,算法精解
+24700704,8.2,130,Netty in Action
+01444648,8.5,100,数据结构与算法分析
+24738301,7.6,224,深入理解C++11
+04143105,8.0,150,HTML5
+01756393,8.6,91,Intermediate Perl
+01449387,8.5,98,Linux Kernel Development
+06859720,7.8,179,实用Common Lisp编程
+02584955,9.3,57,Hacking
+26570695,8.9,73,Cracking the Coding Interview
+05985030,8.3,113,The Google Resume
+21661495,8.5,96,Clojure编程
+01754542,7.4,261,Spring in Action中文版
+01124745,9.5,49,C++语言的设计和演化(英文版)
+01459013,8.6,87,Exceptional C++
+07007204,7.4,259,编程大师访谈录
+03870385,8.3,109,苹果开发之Cocoa编程
+01463391,8.9,70,C Traps and Pitfalls
+01454486,8.0,140,C++必知必会
+01140942,8.6,86,程序设计方法（中文版）
+04049942,8.2,116,Hadoop in Action
+01231231,7.7,182,Junit in Action 中文版
+06859710,7.7,181,Hadoop实战
+02038779,7.8,164,版本控制之道
+26808217,9.2,56,R语言入门与实践
+02252163,8.4,96,Database Management Systems
+02654706,9.0,62,The Art and Science of Java
+04249686,7.6,190,算法之道
+06430747,8.4,93,The Architecture of Open Source Applications
+01470842,8.3,100,Exceptional C++ Style中文版
+01328664,9.1,57,Java Puzzlers
+03604295,7.6,186,iPhone开发基础教程
+01648645,9.5,45,Pointers on C
+02071057,7.7,168,PHP程序设计
+01431970,8.1,115,Learning GNU Emacs Third Edition
+01457333,9.4,47,C Primer Plus
+01230448,7.9,135,PHP程序设计
+04282585,8.4,89,Getting Started with Processing
+06545083,7.4,220,智能Web算法
+24298701,7.4,218,理解Unix进程
+06025284,7.5,193,Python灰帽子
+06811238,8.2,101,Android内核剖析
+34442131,8.5,80,Go语言高级编程
+01952089,8.0,117,密码编码学与网络安全
+01438754,7.6,168,Java网络编程(中文版 第三版)(O＇Reilly Java系列)
+25864553,9.1,52,Modern Operating Systems (4th Edition)
+03228760,8.7,67,Learning Perl
+04037534,8.2,96,敏捷开发的艺术
+03182419,8.6,70,Object-Oriented JavaScript
+05360961,8.9,57,C#高效编程
+06003832,7.8,131,软件框架设计的艺术
+04031965,7.5,175,Python UNIX和Linux系统管理指南
+01400498,9.0,53,C语言名题精选百则技巧篇
+11610789,8.2,92,Python入门经典
+03519369,8.0,108,Java TCP/IP Socket编程
+01771049,8.4,78,Test Driven Development
+01420480,8.6,67,LINUX设备驱动程序
+01314538,8.6,66,UNIX系统编程
+06919383,8.5,70,Head First C
+06321724,8.6,65,Objective-C Programming
+02382413,7.5,159,Cocoa入门
+02368647,8.0,100,jQuery in Action
+26790779,9.4,39,Programming in Scala
+06872527,9.1,46,Cracking the Coding Interview: 150 Programming Questions and Solutions(5th edition)
+30312231,8.1,91,深入浅出Rust
+25837031,8.8,55,算法心得：高效算法的奥秘（原书第2版）
+01962641,7.6,140,lucene in action中文版
+02054201,7.8,116,RESTful Web Services
+01144020,8.4,71,C++ Templates中文版
+01444656,7.3,188,C++程序设计教程
+01237464,7.9,105,软件工艺
+01157908,8.6,61,垃圾收集
+26616762,8.7,57,Programming Rust
+01243809,7.9,103,Practical Java中文版
+04111365,7.5,149,iPhone 3开发基础教程
+01400374,9.1,44,高级编译器设计与实现
+01241361,7.6,133,学习bash
+04768035,7.8,110,Seven Languages in Seven Weeks
+01450829,8.9,49,21天学通C++
+01962301,8.9,49,Agile Web Development with Rails
+03133747,8.9,49,C# in Depth
+01442623,9.0,46,Design Patterns Explained
+01456967,8.6,59,Writing Solid Code
+02208626,8.7,55,代码大全
+05258931,9.6,33,计算机程序设计艺术卷1：基本算法(英文版.第3版)
+01141548,7.8,108,C++网络编程（卷2）
+01217343,8.6,58,C程序设计教程
+01128016,8.0,90,MFC Windows程序设计
+02123090,7.8,105,Ruby for Rails中文版
+01482162,8.8,50,Beginning Python
+01433583,7.5,137,Java Nio
+25789594,8.3,69,深入理解程序设计
+26351257,7.7,111,算法的乐趣
+01101779,7.2,183,数据结构
+05241127,8.3,68,Form+Code in Design
+04732250,8.2,73,程序开发心理学
+26587213,7.4,147,函数式编程思维
+02183420,8.6,55,生物信息学算法导论
+02280936,8.0,85,The Ruby Way中文版
+03661214,7.6,120,可视化数据
+03781532,8.7,51,Windows高级调试
+25958845,7.7,108,Ruby基础教程
+04178907,8.8,47,算法引论
+02709130,8.2,70,A Little Java
+03035267,8.3,65,Programming Ruby 1.9
+01214355,8.0,81,Python 编程金典
+01459003,9.0,41,Agile Software Development
+06109479,8.1,74,flex与bison（中文版）
+26852057,7.1,188,Python Web开发实战
+03729539,8.1,73,The Passionate Programmer
+03765462,7.4,134,PHP高级程序设计
+03027579,8.2,67,Hibernate实战
+03182739,8.2,66,Maven
+02065284,8.7,47,Release It!
+04030327,8.4,57,Language Implementation Patterns
+25743846,8.4,57,深度探索Linux操作系统
+01236825,7.7,97,POSIX多线程程序设计
+01771048,8.9,41,The Unix Programming Environment
+24807524,8.9,41,Head First JavaScript Programming
+10344930,6.8,249,社交网站的数据挖掘与分析
+01451438,8.5,52,Peopleware
+02361237,8.0,74,Beginning Linux Programming
+02132084,9.1,36,C语言参考手册
+03572917,8.6,48,Apprenticeship Patterns
+01467839,8.8,42,Perl Cookbook
+11154471,8.4,54,Team Geek
+01431996,8.3,57,从问题到程序
+01859393,8.8,41,xUnit Test Patterns
+02116178,8.6,46,计算机图形学
+02348812,7.6,97,程序员面试攻略
+25880388,7.0,177,Python基础教程（第2版•修订版）
+03346905,8.8,40,Professional JavaScript for Web Developers
+01845309,8.4,51,Python in a Nutshell
+01224812,8.7,42,可变目标C编译器
+02057804,8.8,39,电路原理
+01874395,9.4,28,The Art of Computer Programming
+02335440,7.7,83,Visualizing Data
+02584701,7.8,76,Programming Interviews Exposed
+03259433,8.2,56,代码之道
+01139244,6.8,207,编程高手箴言
+34466037,9.4,27,The Pragmatic Programmer
+02282628,8.1,58,Spring in Action
+06398113,8.7,39,计算机组成与体系结构：性能设计（原书第8版）
+01957932,7.8,72,Dreaming in Code
+03086812,8.4,46,Pro Django
+04249385,8.8,36,Pro Python
+06524000,8.3,49,程序设计实践
+03205338,8.5,43,Beginning Python
+03840202,8.6,40,Head First iPhone Development
+02347793,8.5,42,敏捷软件开发
+03279191,8.2,51,Programming Clojure
+19983642,9.2,28,Learn C the Hard Way
+04210586,8.2,50,Java消息服务
+02227486,8.8,34,Pro JavaScript Design Patterns
+10777165,8.9,32,交互式计算机图形学
+25910556,7.2,110,WebKit技术内幕
+01765938,8.7,35,Algorithms on Strings
+03743945,8.7,35,数字设计和计算机体系结构
+01941193,8.0,55,The Definitive Antlr Reference
+04068100,8.8,33,C++程序设计原理与实践
+03265700,9.1,28,用TCP/IP进行网际互连(第三卷)
+03767699,8.2,47,C++语言99个常见编程错误
+04042752,8.0,54,Pro Android 2
+01439934,7.6,73,大道至简
+06346890,8.7,34,Learning Deep Architectures for AI
+10536953,8.6,36,Pro Multithreading and Memory Management for iOS and OS X
+03182112,8.4,40,多处理器编程的艺术
+06127082,7.3,91,我的第一本C++书
+02568362,9.3,24,计算机程序设计艺术
+10542542,9.3,24,D is for Digital
+03116145,8.3,41,C#本质论
+03892588,8.2,43,代码整洁之道
+03033853,7.8,57,Python for Unix and Linux System Administration
+04934648,7.3,86,Erlang编程指南
+19897704,7.6,66,An Introduction to Programming in Go
+01192062,7.8,56,ACE程序员指南
+04309489,8.5,35,Professional Android 2 Application Development
+22925199,8.5,35,Introduction to Computation and Programming Using Python
+01231298,8.6,33,程序设计语言
+01782316,8.6,33,Concepts
+10801996,9.3,23,Digital Design and Computer Architecture
+10801399,8.4,37,The Architecture Of Open Source Applications
+02622187,10.0,17,Understanding UNIX/LINUX  Programming
+26368668,7.8,55,编程导论
+27005082,9.0,26,Spring Microservices in Action
+01775790,8.5,34,More Exceptional C++
+01794389,8.6,32,Haskell
+24869910,7.0,109,Go 语言程序设计
+02303830,8.2,40,Java Generics and Collections
+03753486,9.2,23,算法技术手册
+01762507,8.3,37,Mastering Algorithms with C
+01427056,8.1,42,Beginning Linux Programming
+26318361,9.6,19,R Packages
+03770255,6.3,243,Google Android开发入门与实战
+01391000,8.9,26,程序设计抽象思想
+03814402,7.7,55,The Quick Python Book
+03756977,7.9,47,Programming Scala
+03843896,7.1,91,OSGi原理与最佳实践
+03598510,7.8,50,Using Google App Engine
+01761927,9.3,21,Essentials of Programming Languages - 2nd Edition
+02350559,8.7,28,The Science of Programming
+27665112,7.2,81,HTTP/2基础教程
+03228993,8.3,35,Debugging
+02270614,8.5,31,Mindstorms
+01189850,8.0,42,测试驱动开发:实用指南 (平装)
+04124130,7.6,56,TCP/IP Sockets编程
+25880845,7.3,72,程序员的修炼
+02703048,8.8,26,计算机程序设计艺术（第1卷 英文版・第3版）
+01157259,7.6,55,Unix Shell编程
+01931540,7.6,55,PHP &amp; MySQL Web数据库应用开发指南
+04111350,7.1,85,Android基础教程
+04199483,6.7,128,Spring技术内幕
+04082016,8.1,38,Learning Python
+01874376,7.7,50,Groovy in Action
+02124452,7.3,69,Hacking Vim
+01432819,8.3,33,Writing GNU Emacs Extensions
+04149600,8.2,35,A Beginner&#39;s Guide to R
+03532075,8.4,31,Programming C# 3.0中文版（第5版）
+22601258,6.8,108,学习正则表达式
+01432501,8.2,34,An Introduction to Programming in Emacs Lisp
+24089005,8.4,30,Test-Driven Development with Python
+02160126,7.3,65,JavaScript核心技术
+02028747,8.8,24,HTTP Developer&#39;s Handbook
+01230489,8.0,38,Microsoft Visual C++.NET技术内幕（第6版）
+26836475,8.6,26,500 Lines or Less
+01920997,8.2,32,The Standard C Library
+01230027,9.6,16,UNIX网络编程(卷1):连网的APIs:套接字与XTI(第二版)(英文影印版)
+26886659,7.5,51,挑战程序设计竞赛2 算法和数据结构
+07059903,6.5,136,编写高质量代码
+05363255,8.5,26,Invent Your Own Computer Games With Python
+02667214,8.3,29,An Introduction to Programming with Mathematica®
+10756419,8.9,21,Hacker&#39;s Delight
+04143106,7.5,49,Pro HTML5 Programming
+01231823,7.4,53,GNU/Linux编程指南(第二版)
+02057924,8.4,27,计算机程序设计艺术：第4卷 第4册（双语版）
+04251756,7.7,42,人工智能
+02250163,8.1,32,Programming in C
+03292275,8.6,24,SCJP Sun Certified Programmer for Java 6 Exam 310-065
+02338607,9.2,18,电路原理（上册）
+01231788,8.3,28,UNIX网络编程卷2
+02281373,7.7,41,软件预构艺术（中文版）
+26769754,7.7,41,Elixir 程序设计
+03328585,8.8,21,Advanced Data Structures
+11628134,8.7,22,Programming Languages
+05250774,7.2,57,Android应用开发
+03063982,8.4,25,Perl最佳实践
+26424018,9.5,15,Programming Language Pragmatics
+03105314,7.2,56,Linux高级程序设计
+05349823,8.3,26,C++大学教程
+03108799,8.1,29,操作系统设计与实现
+01459011,8.9,19,Large-Scale C++ Software Design
+26579320,6.6,98,JavaScript 函数式编程
+03988448,9.0,18,Refactoring
+02240226,6.4,122,征服Python
+05914256,8.0,30,Linux内核源码剖析（套装上下册）
+11937511,9.4,15,Advanced Programming in the UNIX Environment
+03012910,8.5,22,The Thoughtworks Anthology
+02044249,8.0,29,Python Programming
+02208525,8.0,29,计算机算法的设计与分析
+25847620,7.1,56,HotSpot实战
+20509115,7.7,35,CoffeeScript程序设计
+03253654,7.8,32,Algorithms in a Nutshell
+03092005,7.9,30,Professional Android Application Development
+01397547,8.6,20,Code Complete
+01440149,8.4,22,Applying UML and Patterns
+01244410,8.3,23,软件设计的艺术
+04893005,8.0,27,Programming Python
+01231974,7.3,43,虚拟机的设计与实现
+01850767,7.8,30,Programming in Objective-C
+04156701,7.1,50,97 Things Every Programmer Should Know
+06540551,7.9,28,The Python Standard Library by Example
+02142614,8.5,20,Programming Language Pragmatics
+06047744,6.9,59,Android技术内幕
+25882201,8.1,24,From Mathematics to Generic Programming
+27176836,9.4,13,Algorithms Illuminated
+01116599,8.4,20,算法Ⅰ~Ⅳ(C++实现):基础、数据结构、排序和搜索
+01788390,9.0,15,Inside the Java 2 Virtual Machine
+03061676,7.4,36,PHP 5范例代码查询辞典
+02252374,8.1,23,Foundations of GTK+ Development
+01748395,7.5,33,Text Processing in Python
+02124078,8.0,24,计算机硬件及组成原理
+01439611,8.8,16,Out of their Minds
+01441429,8.3,20,Algorithms in C++
+01726088,8.5,18,The Reasoned Schemer
+20374756,7.4,34,并行程序设计导论
+03133549,7.4,32,Hello
+27193155,7.7,26,Python Tricks
+03994520,8.0,21,Learning SQL
+06830089,8.0,21,Cocoa Programming for Mac OS X (4th Edition)
+04738788,7.5,28,Cocoa and Objective-C
+03228884,7.3,31,The Art of Debugging with GDB
+03815849,7.4,28,Beginning Scala
+24878044,8.5,15,Learning Python
+01229945,7.4,27,Code Reading
+03291772,7.1,33,XMPP
+01452125,6.7,46,Twisted Network Programming Essentials
+02154075,7.7,22,AdvancED DOM Scripting
+07070565,7.3,28,Programming in Go
+02294404,8.4,15,The Little LISPer
+01422724,8.0,18,Java How to Program (6th Edition) (How to Program (Deitel))
+01452548,7.5,24,Pragmatic Project Automation
+05314243,7.5,24,Hello
+06852740,7.5,24,Modern B-Tree Techniques
+01610246,9.4,10,Functional Programming
+04793807,7.1,30,Foundations of Python Network Programming
+04136386,7.9,18,Debug It!
+01762127,9.0,11,A Discipline of Programming
+20445361,8.0,17,高性能CUDA应用设计与开发
+03335184,7.5,22,The Well-Grounded Rubyist
+20452340,7.5,22,程序员面试逻辑题解析
+04219355,7.8,18,Cocoa Programming Developer&#39;s Handbook
+01446790,8.0,16,并行编程模式
+26386925,5.8,101,C++并发编程实战
+10517225,6.4,49,PHP语言精粹
+02863061,8.6,12,Statistical Computing with R
+10442875,7.0,29,MongoDB管理与开发精要
+01229878,7.8,17,实用C语言编程
+03908488,7.2,24,Practical Clojure (The Definitive Guide)
+03322536,7.6,18,Real-World Functional Programming
+25843224,6.2,51,Haskell函数式编程入门
+06809565,7.6,17,C++ How to Program
+01923716,7.7,16,Learn to Program
+06047837,8.3,12,Crafting Rails Applications
+01882469,7.8,15,Java解惑
+04732883,7.1,21,Programming in Objective-C
+01864163,8.1,12,Lua 5.1 Reference Manual
+33441887,8.3,11,深入理解JavaScript特性
+01758653,7.4,17,lex &amp; yacc
+03666227,7.5,16,How to Think Like a Computer Scientist
+06012297,7.6,15,Windows API开发详解
+01108911,8.2,11,C 语言参考手册（第五版）（英文版）
+04242442,7.9,12,Advanced Mac OS X Programming
+01823400,6.8,21,《程序员》(杂志)
+05351836,7.1,17,Android核心技术与实例详解
+04861957,7.4,14,实时碰撞检测算法技术
+25897245,5.1,139,Netty权威指南
+03419784,6.8,18,xUnit测试模式
+25904007,6.7,19,修改代码的艺术
+10770080,5.5,61,Go语言·云动力
+06828058,6.5,19,What Is Node
+06558077,6.0,25,Java程序员面试宝典
+24844841,7.0,11,Introducing Elixir
+25930887,6.9,11,Becoming a Better Programmer
+25716519,5.1,36,NumPy攻略
+01886308,5.8,12,黑客调试技术揭秘
+04149139,3.3,129,0 bug
+01434835,0.0,10,Intel汇编语言程序设计
+01482163,0.0,10,Foundations of Python Network Programming
+01900744,0.0,10,Programming Firefox
+02127663,0.0,10,Event-Based Programming
+03217040,0.0,10,Structure and Interpretation of Computer Programs - 2nd Edition
+25963020,0.0,10,Programming
+01547078,0.0,11,Object-Oriented Software Construction
+01889699,0.0,11,Generic Programming and the STL
+01894843,0.0,11,Unix Network Programming
+02982222,0.0,11,iPhone Open Application Development
+34864920,0.0,11,游戏引擎架构（第2版）
+01162545,0.0,12,计算机图形学导论
+01874394,0.0,19,The Art of Computer Programming
