@@ -5,10 +5,10 @@ Copyright (C) 2020-2025 Jing Wang
 
 This project converts the tables from the original project into CSV files with UTF-8 with BOM encoding, making them easy to open and view directly in WPS or Microsoft Office.
 
-📁 [Code](Code)
+📁 [Code](Code)  
 The original data and conversion code.
 
-:octocat: [Douban-books-crawler-2020](https://github.com/yuzhounh/Douban-books-crawler-2020)
+:octocat: [Douban-books-crawler-2020](https://github.com/yuzhounh/Douban-books-crawler-2020)  
 The code for crawling the original data from Douban.
 
 ### Books
